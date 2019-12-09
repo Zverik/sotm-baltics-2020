@@ -1,4 +1,3 @@
----
 ![SotM Baltics 2020](img/sotmbaltics2020.png)
 
 Welcome to Riga! Yes, that would be a city that host our next State of the Map Baltics

@@ -14,7 +14,7 @@ There will be a great selection of speakers, and we implore you to be one of the
 {: .button}
 
 
-This SotM is a part of the Baltic Geospatial Information Technology Conference.
+This SotM is a part of the Baltic Geospatial Information Technology [Conference](https://www.balticgitconf.eu/).
 Which means, if you get bored of OSM talks, you can attend any of the other two
 tracks to listen to more specialized topics. Also it means we've got a serious
 conference and you have to register to attend:

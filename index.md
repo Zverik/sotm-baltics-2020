@@ -8,7 +8,7 @@ and experience related to OpenStreetMap. One date to remember: **6 March 2020**.
 On that Friday, we will meet at the University of Latvia for nice day of mapping-related
 talks.
 
-There will be a great selection of speakers, and we implore you to be one of them.
+There will be a great selection of speakers, and we invite you to be one of them.
 
 [Please submit a talk!](https://docs.google.com/forms/d/e/1FAIpQLScdagp7tK60ElgQktNPzibRGl00PmTie2JM4HKQa_qB-NhBzw/viewform?usp=sf_link)
 {: .button}

@@ -17,8 +17,7 @@ body {
 }
 
 #logo {
-    margin-top: 3em;
-    margin-bottom: 2em;
+    margin: 3em 0.5em 2em;
 }
 
 p, h1, h2, #app {

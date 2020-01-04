@@ -2,9 +2,9 @@
 layout: sotm
 title: SotM Baltics 2020
 ---
-[Riga](https://www.liveriga.com/en/)!
-The Europe's Wifi capital! But of course there is plenty more
-to see: amazing historic facades, cobblestone roads, a river half
+Riga! The Europe's Wifi capital!
+But of course there is plenty [more to see](https://www.liveriga.com/en/):
+amazing historic facades, cobblestone roads, a river half
 a kilometer in width with astonishing views. Fish. Anything to
 please a traveller, and we haven't even started on a brand new
 venue the conference will be in. Do come here. You've got plenty of options.
@@ -51,7 +51,7 @@ To get to the centre, take:
 * a taxi: [Bolt](https://bolt.eu/en/cities/riga/) and [Yandex.Taxi](https://taxi.yandex.lv/)
     are available, no Uber.
 * or even a train: costs 0.70 € to "Torņakalns" station, from there
-    it's a 900 m walk. Don't forget your OsmAnd or MAPS.ME app!
+    it's a 900 m walk. Don't forget your OsmAnd or MAPS.ME app to not get lost!
 
 # Accomodation
 

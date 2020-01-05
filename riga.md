@@ -32,18 +32,21 @@ will be travelling the same direction, and you could share the costs.
 Ask around on the [telegram group](https://t.me/OpenStreetMapOrg) or
 on other channels.
 
-# University of Latvia
+# The Venue
 
 Continuing the streak from SotM Baltics 2013, we are hosting this
-conference in a top-ten university in the Baltic States: The University
-of Latvia. More precisely, in its [Academic Centre](https://www.akademiskaiscentrs.lu.lv/en/),
-which is being finished the time you're reading this.
+conference in a top-ten university in the Baltic States: **The University
+of Latvia**. More precisely, in its Academic Centre's
+[House of Science](https://www.akademiskaiscentrs.lu.lv/en/buildings/the-house-of-science/),
+which has been opened just a year ago.
 
-Details on how to get there will follow. For now, use
-[Jelgavas iela 1](https://www.openstreetmap.org/?mlat=56.93666&mlon=24.09727#map=18/56.93666/24.09727)
-for the destination address in your app.
+The building is new, and some maps might miss it. Use
+[Jelgavas iela 3](https://www.openstreetmap.org/?mlat=56.93610&mlon=24.09731#map=17/56.93610/24.09731)
+for the destination address in your app. Here is a [GeoURI](geo:56.93606,24.09764?z=16)
+and a [Maps.Me marker](http://ge0.me/w4wGuhvCf9/Zin%C4%81t%C5%86u_m%C4%81ja) for you.
+When near, find the Baltic GIT conference banners and follow them.
 
-To get to the centre, take:
+To get to the Academic Centre, take:
 
 * a tram: 600 m walk from the "Nacionālā bibliotēka" stop, trams 1, 2, 5, 10.
 * a bus: same stop for buses 3, 4, 7, 8, 21, 22, 25, 32,
@@ -55,6 +58,30 @@ To get to the centre, take:
 
 # Accomodation
 
+For some reason, it is often cheaper to rent an apartment than a hotel room.
+On the [booking.com](https://www.booking.com/searchresults.en-gb.html?aid=304142&label=gen173nr-1FCAEoggI46AdIM1gEaCWIAQGYASG4ARnIAQ_YAQHoAQH4AQuIAgGoAgO4AoSQx_AFwAIB&sid=18bd336791f4e51e1ff158fafd0e7809&tmpl=searchresults&ac_click_type=g&checkin_month=3&checkin_monthday=5&checkin_year=2020&checkout_month=3&checkout_monthday=7&checkout_year=2020&class_interval=1&from_sf=1&group_adults=1&group_children=0&label_click=undef&no_rooms=1&place_id=ChIJzR8yNtHP7kYRm00bym8mFvc&place_id_lat=56.941013&place_id_lon=24.096625&raw_dest_type=landmark&room1=A&sb_price_type=total&search_selected=1&shw_aparth=1&slp_r_match=0&src=searchresults&srpvid=056851406e18001f&ss=National%20Library%20of%20Latvia%2C%20M%C5%ABkusalas%20iela%2C%20Zemgale%20Suburb%2C%20Riga%2C%20Latvia&ss_raw=%D0%A0%D0%B8%D0%B3%D0%B0%2C%20national%20library&ssb=empty&ssne=%D0%A0%D0%B8%D0%B3%D0%B0&ssne_untouched=%D0%A0%D0%B8%D0%B3%D0%B0&top_ufis=1&nflt=distance%3D1000%3Bdistance%3D3000%3Boos%3D1%3B&rsf=)
+website, you'll see plenty of options starting from 30 € a night
+(though 50 is a more common price). The best area to rent is around the National
+Library, which is 15-minute walk to the venue.
+
+Due to Riga being a popular destination for students and backpackers, there
+are many cheap [hostels](https://www.hostelworld.com/search?search_keywords=Riga,%20Latvia&country=Latvia&city=Riga&date_from=2020-03-05&date_to=2020-03-07&number_of_guests=1&display=map),
+with prices around 10 € a night. Most of these are located in the city
+centre: the best location criteria for you should be a distance to the
+nearest tram stop, or to the railway station.
+
+Alas we cannot recommend any specific accomodations, since we haven't used them
+much. Please rely on website ratings. If possible, google the name of the chosen
+hotel or hostel and book directly: that helps them save on huge booking.com fees.
+
 # Good to Know
 
-* For public transport, purchase an e-ticket at any street kiosk. A ride costs 1.15 €.
+* Browse the official [tourist website](https://www.liveriga.com/en/) for info on events and places.
+* For public transport, purchase an e-ticket at any street kiosk. A ride costs 1.15 €,
+    but 2 € when paid to a driver.
+* Use trams. At least once. Better if you cross the Daugava river.
+* Be prepared to find tons of cat-related souvenirs. Cat on a roof is a common symbol of the city.
+* There are many free wi-fi access points. When lost or in doubt, contact the organizers:
+    Rihards (email pending) or Ilya by [telegram](https://t.me/ilyazver).
+
+_To get to the [main page](/), click on the logo at the top._

@@ -22,6 +22,11 @@ conference and you have to register to attend:
 [Register here!](https://www.balticgitconf.eu/#register)
 {: .button}
 
-More information — including accomodations and travel — will follow.
+After doing all of the above, it's time to book a flight, choose a hotel
+and add some bookmarks to your mobile map. We've got a page just for that:
+
+[Travel, accomodation, the venue](riga.html)
+{: .button}
+
 Subscribe to our [twitter](https://twitter.com/sotmbaltics) for updates.
 Questions? Send them to [org@sotm-baltics.org](mailto:org@sotm-baltics.org).

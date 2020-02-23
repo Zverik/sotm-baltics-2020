@@ -8,8 +8,9 @@ and experience related to OpenStreetMap. One date to remember: **6 March 2020**.
 On that Friday, we will meet at the University of Latvia for a nice day of mapping-related
 talks.
 
-This SotM is a part of the Baltic Geospatial Information Technology [Conference](https://www.balticgitconf.eu/).
-Which means, if you get bored of OSM talks, you can attend any of the other
+This SotM is a part of the [Baltic Geospatial Information Technology Conference](https://www.balticgitconf.eu/).
+We cannot thank them enough for letting us borrow a room for OSM-related talks.
+Which also means, if you get bored of these, you can attend any of the other
 tracks to listen to more specialized topics. Also it means we've got a serious
 conference and you have to register to attend:
 

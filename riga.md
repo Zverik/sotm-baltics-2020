@@ -9,6 +9,10 @@ a kilometer in width with astonishing views. Fish. Anything to
 please a traveller, and we haven't even started on a brand new
 venue the conference will be in. Do come here. You've got plenty of options.
 
+# A Map
+
+<iframe width="100%" height="300px" frameborder="0" allowfullscreen src="http://umap.openstreetmap.fr/en/map/sotm-baltics-2020_409931?scaleControl=false&miniMap=false&scrollWheelZoom=false&zoomControl=true&allowEdit=false&moreControl=false&searchControl=null&tilelayersControl=null&embedControl=null&datalayersControl=null&onLoadPanel=undefined&captionBar=false"></iframe>
+
 # Getting Here
 
 State-owned AirBaltic is your airline of choice: Riga (RIX) is the hub for
@@ -64,6 +68,12 @@ website, you'll see plenty of options starting from 30 € a night
 (though 50 is a more common price). The best area to rent is around the National
 Library, which is 15-minute walk to the venue.
 
+To quote the main conference website, the official BGITC Hotel is
+[Wellton Riverside SPA Hotel](https://www.wellton.com/en/hotels/wellton-riverside-spa-hotel)
+and most of the guests to Riga will be staying there. When you registered,
+you should have received a discount code in your email: consider staying
+there, not in the least because the afterparty will be held in that hotel.
+
 Due to Riga being a popular destination for students and backpackers, there
 are many cheap [hostels](https://www.hostelworld.com/search?search_keywords=Riga,%20Latvia&country=Latvia&city=Riga&date_from=2020-03-05&date_to=2020-03-07&number_of_guests=1&display=map),
 with prices around 10 € a night. Most of these are located in the city
@@ -78,10 +88,11 @@ hotel or hostel and book directly: that helps them save on huge booking.com fees
 
 * Browse the official [tourist website](https://www.liveriga.com/en/) for info on events and places.
 * For public transport, purchase an e-ticket at any street kiosk. A ride costs 1.15 €,
-    but 2 € when paid to a driver.
+    but 2 € when paid to a driver. Try the [Trafi](https://www.trafi.com/site/en) app.
 * Use trams. At least once. Better if you cross the Daugava river.
 * Be prepared to find tons of cat-related souvenirs. Cat on a roof is a common symbol of the city.
 * There are many free wi-fi access points. When lost or in doubt, contact the organizers:
     Rihards (email pending) or Ilya by [telegram](https://t.me/ilyazver).
+* Afterparty! Starting from 19:00 at the Wellton Riverside SPA Hotel. Have your conference badge on.
 
 _To get to the [main page](/), click on the logo at the top._

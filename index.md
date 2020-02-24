@@ -2,7 +2,7 @@
 layout: sotm
 title: SotM Baltics 2020
 ---
-Welcome to Riga! Yes, that would be a city that host our next State of the Map Baltics
+Welcome to Riga! Yes, that's the city that hosts our next State of the Map Baltics
 conference, inviting everybody from Baltic states and beyond to share their ideas
 and experience related to OpenStreetMap. One date to remember: **6 March 2020**.
 On that Friday, we will meet at the University of Latvia for a nice day of mapping-related

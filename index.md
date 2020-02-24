@@ -35,7 +35,7 @@ in at the OSM stage.
 * 10:30—11:00. Tomas Straupis (Lithuania), "Cartography using open source tools - topo.openmap.lt"
 * 11:00—11:30. Kirill Bondarenko (Russia), "3D in OSM. Current State and future"
 * 11:30—12:00. Sviatoslav Mikhailov (Estonia). "360° photos from a car + DR-GPS"
-* 12:00—12:30. Mārtiņš on OSRM
+* 12:00—12:30. Aleksandrs Saveļjevs, Mārtiņš Vimba, Rolands Rihters on Challenges of using OSRM for timbertruck routing
 * 12:30—13:30. **Lunch**
 * 13:30—14:00. Evgen Bodunov (Belarus). "Offline address search on the OSM data"
 * 14:00—14:30. Danil Kirsanov (USA). "Using AI to Map the World with RapiD editor"

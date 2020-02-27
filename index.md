@@ -31,7 +31,7 @@ in at the OSM stage.
 * 8:30—9:00. Registration and coffee
 * 9:00—9:20. Opening Speech
 * 9:20—9:50. Allan Mustard (OSMF), "I'm Tired of Getting Lost"
-* 9:50—10:20. Stefan Gustafsson (ESA), "Bringing Space to Earth"
+* 9:50—10:20. Ingmars Pukis (LMT), "The Arrival of 5G & Examples of Digital Transformation"
 * 10:30—11:00. Tomas Straupis (Lithuania), "Cartography using open source tools - topo.openmap.lt"
 * 11:00—11:30. Kirill Bondarenko (Russia), "3D in OSM. Current State and future"
 * 11:30—12:00. Sviatoslav Mikhailov (Estonia). "360° photos from a car + DR-GPS"

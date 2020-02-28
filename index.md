@@ -40,7 +40,7 @@ in at the OSM stage.
 * 13:30—14:00. Evgen Bodunov (Belarus). "Offline address search on the OSM data"
 * 14:00—14:30. Danil Kirsanov (USA). "Using AI to Map the World with RapiD editor"
 * 14:30—15:00. **Lightning Talks!** Open microphone, 5 minutes per person.
-* 15:30—16:00. Natalia Goncharik (Belarus). "What Questions May Come With OpenStreetMap"
+* 15:30—16:00. Natallia Hancharyk (Belarus). "What Questions May Come With OpenStreetMap"
 * 16:00—16:30. Ilya Zverev (Belarus). "ODbL in twelve examples"
 * 16:30—17:00. Allan Mustard (USA). "Winds of Change in OpenStreetMap"
 * 17:00—17:30. Closing

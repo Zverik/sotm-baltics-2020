@@ -1,6 +1,6 @@
 ---
 layout: sotm
-title: SotM Baltics 2020
+title: Baltic GIT 2020 Mobile Schedule
 ---
 <style>
     .onepane img, .pane img { width: 200px; height: 200px; }
@@ -21,7 +21,7 @@ beforehand and get notifications.
 
 On an Android phone, install the [Giggity app](https://play.google.com/store/apps/details?id=net.gaast.giggity)
 (scan the first code), start it and click on a "+" button, then click "Scan QR" and scan the second code.
-Or copy the [XML link](http://sotm.osmz.ru/baltic20.xml) if you're reading this on a phone.
+Or copy the [XML link](schedule/baltic20.xml) if you're reading this on a phone.
 
 <div class="twopane">
     <div class="pane left">
@@ -30,17 +30,17 @@ Or copy the [XML link](http://sotm.osmz.ru/baltic20.xml) if you're reading this 
     </div>
     <div class="pane right">
         <img src="img/giggity_xml_qr.png" alt="QR code for Giggity XML schedule"><br>
-        <a href="http://sotm.osmz.ru/baltic20.xml">XML schedule for Giggity</a>
+        <a href="schedule/baltic20.xml">XML schedule for Giggity</a>
     </div>
 </div>
 
 # iPhone or iPad
 
 On an iOS device, simply start a camera and scan the code below. It will add
-all conference events to your calendar. Or click on an [iCalendar](http://sotm.osmz.ru/baltic20.ics)
+all conference events to your calendar. Or click on an [iCalendar](schedule/baltic20.ics)
 link. You can easily disable and delete the section afterwards.
 
 <div class="onepane">
     <img src="img/ical_qr.png" alt="QR code for iCalendar schedule"><br>
-    <a href="http://sotm.osmz.ru/baltic20.ics">iCalendar schedule</a>
+    <a href="schedule/baltic20.ics">iCalendar schedule</a>
 </div>

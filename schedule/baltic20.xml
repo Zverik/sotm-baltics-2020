@@ -1,0 +1,1154 @@
+<?xml version='1.0' encoding='utf-8'?>
+<schedule>
+  <version>0.2</version>
+  <conference>
+    <acronym>balticgit2020</acronym>
+    <title>Baltic GIT 2020</title>
+    <start>2020-03-06</start>
+    <end>2020-03-06</end>
+    <days>1</days>
+    <timeslot_duration>00:10</timeslot_duration>
+    <base_url>https://www.balticgitconf.eu/</base_url>
+  </conference>
+  <day index="1" date="2020-03-06" start="2020-03-06T09:00:00+02:00" end="2020-03-06T17:30:00+02:00">
+    <room name="ALFA">
+      <event guid="3cba964e-e53d-5407-bf40-3c9e4001ad13" id="1">
+        <date>2020-03-06T09:00:00+02:00</date>
+        <start>09:00</start>
+        <duration>00:20</duration>
+        <room>ALFA</room>
+        <slug>opening-speech</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Opening Speech</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="430c1441-895f-5c3e-af4c-73469f8e7133" id="2">
+        <date>2020-03-06T09:20:00+02:00</date>
+        <start>09:20</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>i-m-tired-of-getting-lost</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>I'm Tired of Getting Lost</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Allan Mustard describes how OpenStreetMap changed lives for the better simply by creating a map of that country that anybody could use.
+
+Allan Mustard is a retired U.S. Ambassador as well as a long time OpenStreetMap contributor. Since last December he is the chairperson of the OSM Foundation board of directors. He was sworn in as U.S. Ambassador to Turkmenistan on November 25, 2014 and retired from that position in June 2019 after almost 38 years of public service. Allan helped to greatly improve OSM in Turkmenistan during his years there. He previously served as Agricultural Minister-Counselor at the U.S. Embassy in New Delhi, India. A widely recognized authority on agricultural and food aid policy, he has broad experience in guiding economic reform assistance throughout Eastern Europe and the former Soviet Union.</description>
+        <logo></logo>
+        <persons>
+          <person id="1">Allan Mustard</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="55c84bd6-2107-5d50-b451-e32522be5345" id="3">
+        <date>2020-03-06T09:50:00+02:00</date>
+        <start>09:50</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>the-arrival-of-5g-examples-of-digital-transformation</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The Arrival of 5G &amp; Examples of Digital Transformation</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>LMT is one of the first companies to implement the 5G network, creating an ecosystem for the development of innovative and exportable products which will enable the competition even on a more global scale. 5G will be the foundation for the digital transformation in all industries. 5G is not only providing in mobile network the same internet experience as an optical internet connection, but it also offers the chance to develop a variety of solutions for IoT, drones and AI that will create new opportunities in everyone's daily lives.
+
+Since 2009, Ingmars Pukis is the Marketing and Business Development Vice President and Member of the Management Board of Latvian Mobile Telephone (LMT). Overall, he has two decades of experience in telecommunications, marketing and business development. Before joining LMT, Ingmars was the owner and CEO of Exact Management LLC; before that – the Marketing Director at Exigen Services Latvia JSC. Between 2000 and 2004, he worked at the telecommunications company Lattelekom LLC, progressing from Marketing Manager to Director of Broadband Services Department. Ingmars is a member of the Latvian Internet Association and a member of the State Administration Policy Development Council. He is also a national guard with the NG Student Battalion.</description>
+        <logo></logo>
+        <persons>
+          <person id="2">Ingmars Pukis</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="f23f6e2c-44ca-515a-bdfa-b3ced2240113" id="4">
+        <date>2020-03-06T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>beyond-spatial-data-infrastructures</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Beyond Spatial Data Infrastructures</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>EUROGI, the European Umbrella Organisation for Geographic Information, seeks to promote the widespread and effective use of geospatial information and technologies. It has a forward looking, futures orientation in much of its thinking and in this regard it is aware that over the past few decades the technological and market/institutional environment has changed considerably since the Spatial Data Infrastructure paradigm was first developed. The ‘Beyond SDIs’ presentation which Bruce will present will provide some thoughts which could possibly lead to the development of a new paradigm. In the presentation Bruce will mention some geospatial though leaders’ views on this Beyond SDIs theme.
+
+Bruce is a professional town and regional planner who has worked for many years as a planner in both South Africa and Ireland. He represented Ireland in discussions regarding the development of the INSPIRE Directive and for a period chaired the Irish Spatial Data Infrastructure Work Group. He is Past President of EUROGI and is currently the President of IRLOGI, the Irish Organisation for Geographic Information. Bruce is currently on the Executive Committee of EUROGI.</description>
+        <logo></logo>
+        <persons>
+          <person id="3">Bruce McCormack</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="652245c3-e9f7-5f77-b963-fa3b462d2c22" id="5">
+        <date>2020-03-06T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>geo-enabled-solutions-for-automatic-monitoring-process</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Geo-enabled solutions for automatic monitoring process</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="4">Kreet Solnask</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="3e7fe4e2-91b8-5d82-8ef8-4dfaec09cc13" id="6">
+        <date>2020-03-06T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>the-backbone-of-latvia-s-electricity-system-in-the-lvm-geo-platform</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The Backbone of Latvia's Electricity System in the LVM GEO Platform</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="5">Maris Kuzmins</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="6835786a-4852-56ed-94f4-9cab56668931" id="7">
+        <date>2020-03-06T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>enhancing-your-data-experience-with-maps-and-geodata</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Enhancing your data experience with maps and geodata</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="6">Jonas Karlsson</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="1b307d0b-42e2-537c-b303-30f571619b53" id="8">
+        <date>2020-03-06T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>indoor-mapping-of-waste-management-warehouse</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Indoor mapping of waste management warehouse</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>lv</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="7">Arturs Traubergs</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="1c7b217e-7db0-5e57-a692-47b5058fc456" id="9">
+        <date>2020-03-06T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>modern-gis-systems-for-different-business-needs</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Modern GIS systems for different business needs</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="8">Janis Heinsbergs</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="470c379f-b7cd-5605-93f9-f9e0c709344e" id="10">
+        <date>2020-03-06T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>the-role-of-geospatial-data-services-in-implementing-and-launching-a-new-e-commerce-platform-in-the-baltic-states</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The role of geospatial data services in implementing and launching a new e-commerce platform in the Baltic states</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>lv</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="9">Janis Jakaitis</person>
+          <person id="10">Valdis Karulis</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d788d8fc-bf7c-5b5d-8f8f-7968aa2cd0d7" id="11">
+        <date>2020-03-06T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>have-no-fear-open-source-is-here</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Have no fear, open source is here!</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="11">Topi Tjukanov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="df019566-4230-518a-b3c8-3f283ca593b9" id="12">
+        <date>2020-03-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>remote-sensing-for-improvement-of-public-services</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Remote sensing for improvement of public services</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="12">Tõnu Oja</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="952e9efe-b878-5378-9e18-b0d363c87358" id="13">
+        <date>2020-03-06T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>closing-the-gap-between-the-geospatial-and-operational-worlds</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Closing the Gap Between the Geospatial and Operational Worlds</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="13">Alexander Tasev</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="603aefd0-3b40-5f37-b067-637e26d90776" id="14">
+        <date>2020-03-06T17:00:00+02:00</date>
+        <start>17:00</start>
+        <duration>00:30</duration>
+        <room>ALFA</room>
+        <slug>closing</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Closing</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="BETA">
+      <event guid="ef6831d6-f459-5728-9e17-9029a349f14b" id="15">
+        <date>2020-03-06T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>here-studio-and-creation-of-custom-web-maps</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>HERE Studio and creation of custom Web Maps</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>In today's connected and super-fast world, location data is the king. But until now, it has been complex to manage and visualize it on a map. HERE Studio makes it simple. And it is open for anyone. We have buckled up three intuitive tools for every skill level. HERE Studio enables anyone to accelerate map making, better understand location data and extract valuable insights – without the need for coding, set-up or complex infrastructure. Easy for beginner, comprehensive for a pro. Tell your data story with confidence, easily share it and work in real-time with our flexible cloud service for location data management.
+
+Martin Švec is Business Development Manager at HERE Technologies. During his 10+ years of experience in the location based business, he led several projects focusing on alternative means of transportation including Discover Cities (public transport and pedestrian navigation) and Venue Maps (indoor navigation). Nowadays, Martin is responsible for setting up business relationships with companies from navigation, automotive and telco industries to public authorities in the Central European region. Together with different HERE partners, he also been looking for innovative solutions in IoT, Smart Cities and Autonomous Transportation developments.</description>
+        <logo></logo>
+        <persons>
+          <person id="14">Martin Svec</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="ca432271-57cc-513d-bcaa-55834cd530e0" id="16">
+        <date>2020-03-06T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>modern-gis-systems-for-topographical-data-management-needs-in-latvia</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Modern GIS systems for topographical data management needs in Latvia</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>lv</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="15">Maris Krievs</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="0b7543b3-fc30-5349-8b18-3ac5881678fa" id="17">
+        <date>2020-03-06T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>pioneering-vector-tiles-in-latvia</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Pioneering vector tiles in Latvia</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>lv</language>
+        <abstract></abstract>
+        <description>Vector tiles is an emerging method for delivering base maps, that can be used on a web or mobile platforms on such devices as PCs, tablets, smart phones. Unlike raster maps, less centralised server processing power is required, since rasterization is performed directly in the client. This has become possible because of the growth in performance of clients’ devices. Since 2017, Jana seta Map Publishers had actively been seeking the best solution to create detailed vector tile maps, suitable for web and mobile apps.
+
+Matīss Zervēns is a software engineer for Jāņa sēta Map Publishers with five years’ experience in developing GIS solutions.</description>
+        <logo></logo>
+        <persons>
+          <person id="16">Matiss Zervens</person>
+          <person id="17">Davis Valters Immurs</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="0bfb9a0e-33f4-5183-8ac1-5f0797e18899" id="18">
+        <date>2020-03-06T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>bringing-space-to-earth</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Bringing Space to Earth</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Space based services, based on earth observation, satellite navigation, and satellite communication, are already strongly integrated into our daily lives. Geospatial Information Technology would be unthinkable without access to our resources in space, which is also the case for many other industrial sectors. In his presentation, Stefan Gustafsson will explain: - How ESA, through its Business Application programme, provides support and funding for development of innovative space based services. - How the ESA Business Incubation Network across Europe every year supports between one and two hundred new entrepreneurs helping them building successful companies from a space related idea. - How the ESA Technology Transfer Broker Network helps finding the space technology that is able to solve your needs.
+
+Stefan Gustafsson has more than twenty years of experience in technology and applications development. Since 2009 he is working for the European Space Agency, initially he was responsible for development of innovative services using earth observation, satellite navigation, and satellite communication. Currently he holds the position of Business Incubation Officer, being responsible for ESA’s business incubation and technology transfer activities in a number of ESA’s member states and coordinating the network of ESA Business Incubation Centers. Stefan believes in the benefits of integrating Space stronger in society, “the innovation potential is enormous”. Stefan holds a Master of Science from Linköping University (Sweden) in Applied Physics and Electrical Engineering, and a PhD from Aachen University of Technology (Germany) in Electrical Engineering and Information Technology.</description>
+        <logo></logo>
+        <persons>
+          <person id="18">Stefan Gustafsson</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="0bdede3f-ef57-5b2d-a267-eff0f9135381" id="19">
+        <date>2020-03-06T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>densely-populated-areas-of-latvia</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Densely Populated Areas of Latvia</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="19">Davis Klavins</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="caa5def8-54c2-570d-866a-2220ba971f09" id="20">
+        <date>2020-03-06T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>geolatvija-lv-today-and-its-development-strategy</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Geolatvija.lv today and its development strategy</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>lv</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="20">Ugis Bisenieks</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="3264a66b-8077-5fba-b5af-0318e9fcdf8c" id="21">
+        <date>2020-03-06T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>build-inspire-ready-gis-platform-using-open-source-gis-use-case-of-lithuania</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Build INSPIRE Ready GIS Platform Using Open Source GIS (Use Case of Lithuania)</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="21">Dr. Andrius Balciunas</person>
+          <person id="22">Rita Viliuvienė</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="9af62f61-4602-58d7-8f66-2f196c5ebf90" id="22">
+        <date>2020-03-06T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>destination-lithuanian-america-efficient-mapping-of-600-lithuanian-american-heritage-sites</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>"Destination Lithuanian America": efficient mapping of 600+ Lithuanian-American heritage sites</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="23">Augustinas Zemaitis</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="f95dc849-4619-54ce-95a5-fb23a111402e" id="23">
+        <date>2020-03-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>augmented-intelligence-3rd-generation-of-bi</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Augmented Intelligence: 3rd Generation of BI</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>lv</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="24">Maris Svilans</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="f2ee9ef7-2c99-52ec-8e77-a6c66da3a288" id="24">
+        <date>2020-03-06T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>BETA</room>
+        <slug>national-sea-ice-monitoring-using-earth-observation-imagery</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>National sea-ice monitoring using Earth Observation imagery</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="25">Martin Jussi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="GAMMA">
+      <event guid="a777d465-6d57-54d1-b1f9-9502c428c7c9" id="25">
+        <date>2020-03-06T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>mapping-the-history-on-old-pictures-experience-of-ajapaik-ee-crowdsourcing-platform</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Mapping the history on old pictures – experience of Ajapaik.ee crowdsourcing platform</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Ajapaik is a crowdsourcing platform for enriching the metadata of historic images. Since the beginning in 2011 the platform focused on geotagging and rephotography (then and now picture pairs). The aim is to enable map based access to historic pictorial content (instead of the usual textual search). Ajapaik has 175000 images, 106000 have been geotagged by users who have also submitted more than 16000 rephotographs. The talk will share our experience and prospects of how to use this data further.
+
+Vahur Puik studied cultural geography in the University of Tartu, has worked as a photographer and then on positions related to exhibitions and photographic collections in several Estonian museums. He has been carefully following the global trends in digitising (photographic) heritage, participatory museum approach and crowdsourcing. Since 2012, Vahur has been dedicated full time to developing crowdsourcing platform Ajapaik.ee.</description>
+        <logo></logo>
+        <persons>
+          <person id="26">Vahur Puik</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d00d9747-1e30-5a34-b6b4-a8395852ad8d" id="26">
+        <date>2020-03-06T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>direct-tasking-of-30cm-satellite-imagery</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Direct tasking of 30cm satellite imagery</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="27">Arnaud Durand</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="f306e365-cfd2-51f0-a091-ae23d9a2f39b" id="27">
+        <date>2020-03-06T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>tallinnovation</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Tallinnovation</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="28">Ivari Rannamaa</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="0a9ff2e8-5724-5dfb-a984-c098c290735a" id="28">
+        <date>2020-03-06T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>lvm-geo-mobile-for-professional-use</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>LVM GEO Mobile for professional use</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="29">Katrina Amerika</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="c3182081-14f0-5b9c-8c6e-819c35405f81" id="29">
+        <date>2020-03-06T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>the-local-communities-competitiveness-improving-through-open-data-ecosystems-optimal-engineering</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>The Local Communities’ Competitiveness Improving Through Open Data Ecosystems Optimal Engineering</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="30">Alexander Skvorchevsky</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="ad176a1c-fd07-5865-a381-16028a3ef0bd" id="30">
+        <date>2020-03-06T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>getting-more-out-of-the-soil-map-deriving-advanced-numerical-parameters-from-the-soil-map-of-estonia</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Getting more out of the soil map: Deriving advanced numerical parameters from the Soil Map of Estonia</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="31">Alexander Kmoch</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="33f88538-8bd1-5b9c-950a-68208ccc9ff2" id="31">
+        <date>2020-03-06T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>teaching-geoinformatics-challenges-and-opportunities</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Teaching Geoinformatics – challenges and opportunities</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="32">Evelyn Uuemaa</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="44a3fd79-888d-50c8-b9e2-7261279784d7" id="32">
+        <date>2020-03-06T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>road-traffic-collision-scene-reconstruction-comparing-traditional-police-methods-with-new-ones</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Road traffic collision scene reconstruction: comparing traditional police methods with new ones</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="33">Andres Mumma</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="e7830481-56e4-53f0-a87b-97dd182cb33e" id="33">
+        <date>2020-03-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>tbd</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>TBD</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="986cf666-34c6-5faa-b5c8-8e9647373e91" id="34">
+        <date>2020-03-06T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>GAMMA</room>
+        <slug>gis-and-machine-learning-in-logistics</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>GIS and Machine Learning in logistics</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description></description>
+        <logo></logo>
+        <persons>
+          <person id="34">Jaak Laineste</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="OSM">
+      <event guid="6caf2798-71c4-52d5-871a-f91ddccb2463" id="35">
+        <date>2020-03-06T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>cartography-using-open-source-tools-topo-openmap-lt</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Cartography using open source tools - topo.openmap.lt</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Important aspects of cartography, like generalisation, are usually mostly overlooked in today's on-line maps. Some of these problems are being solved using open source tools while creating a vector tile based on-line map topo.openmap.lt. Cartography helps to improve not only the visual, but also the technical result of vector tiles and therefore the maps themselves. Although some solutions are already implemented, a lot of other issues are missing even ideas for high level algorithm to be used to solve them.
+
+Head of Productivity engineering department at iTree Group with more than 20 years of experience in IT. Active member of OpenStreetMap since 2008. Member of Lithuanian Cartographic Society.</description>
+        <logo></logo>
+        <persons>
+          <person id="35">Tomas Straupis</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="09aa6613-1215-5e45-9676-b6d25812d7d8" id="36">
+        <date>2020-03-06T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>3d-in-osm-current-state-and-future</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>3D in OSM. Current State and future</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Should a free map be flat? How 3D-OSM came into beeing? Are "Simple Building" so simple? How it can be used? Are there any alternatives? When 4D and 5D will arrive?
+
+Joined OSM eleven years ago and dug right in: made a conversion for a popular navigation tool and many useful validators. After presenting at many local and international conferences, took a break — to return with an avid interest for 3D.</description>
+        <logo></logo>
+        <persons>
+          <person id="36">Kirill Bondarenko</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="b964f348-9220-552d-b85a-128d901a9074" id="37">
+        <date>2020-03-06T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>360deg-photos-from-a-car-dr-gps</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>360° photos from a car + DR-GPS</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Among the most active mappers in Estonia, Sviatoslav Mikhailov has coordinated the building import over the country, has made many validators, and connects the communities. Recently he's been interested in DR-GPS and Mapillary imagery.</description>
+        <logo></logo>
+        <persons>
+          <person id="37">Sviatoslav Mikhailov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="04720159-a329-56bd-b5f0-026d339f96f8" id="38">
+        <date>2020-03-06T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>challenges-of-using-osrm-for-timbertruck-routing</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Challenges of using OSRM for timbertruck routing</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Mappost and Latvia`s State Forests have been working together on an innovative logistics solver engine project where OSRM technology is used for routing purposes. Timbertruck movement on roads is a much more complex issue than it is for other vehicles due to very practical challenges and specific business needs.
+
+Rolands Rihters is a geospatial solutions development lead at the JSC Latvia`s State Forests with significant experience in developing complex GIS. Together with the team he is developing various geospatial solutions in many organizations in Latvia.
+
+Aleksandrs Saveļjevs is an experienced software developer with a particular interest in algorithms and operations research, formerly a world TOP30 participant in numerous programming competitions. Since 2017 he is mainly working on designing algorithms and developing solutions for solving TSP, VRP problems and their variations, including using open source technologies.
+
+Mārtiņš Vimba is a geographer, CEO of “Mappost” Ltd. with more than 10 years of experience in implementing route planning and optimization solutions to support various business processes and reduce costs.</description>
+        <logo></logo>
+        <persons>
+          <person id="38">Aleksandrs Saveļjevs</person>
+          <person id="39">Mārtiņš Vimba</person>
+          <person id="40">Rolands Rihters</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="ed53ec88-882e-5551-b04d-0284dfdb6d4e" id="39">
+        <date>2020-03-06T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>offline-address-search-on-the-osm-data</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Offline address search on the OSM data</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>During our work on Guru Maps we have developed many interesting solutions. One of them is address search using OSM data. On a mobile device this is especially difficult because of limited resources.
+
+Founder and developer of Guru Maps mobile application for iOS and Android, and an active member of the Belarussian OSM community</description>
+        <logo></logo>
+        <persons>
+          <person id="41">Evgen Bodunov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d14cde23-ed49-5f20-9d38-e04574bb383d" id="40">
+        <date>2020-03-06T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>using-ai-to-map-the-world-with-rapid-editor</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Using AI to Map the World with RapiD editor</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>We'll discuss the deep neural network applications for mapping and introduce RapiD, an AI-assisted extension of iD OpenStreetMap editor publicly available at www.mapwith.ai.
+
+Danil Kirsanov holds PhD in Applied Math from Harvard and prior to Facebook worked on the scalable computing at Microsoft and MathWorks. His primary interests are in computer assisted mapping, signal/image processing, numerical modeling and distributed machine learning applications.</description>
+        <logo></logo>
+        <persons>
+          <person id="42">Danil Kirsanov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="2bf91ebc-3a6b-5e3c-adc6-a28b135ef684" id="41">
+        <date>2020-03-06T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>lightning-talks</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Lightning Talks</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>We invite everyone who used OSM and liked it, or failed, or was amazed with its options, to give a very short five-minute talk on anything related to OpenStreetMap. No advance registration is needed, it's open mic!</description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="743d3e44-0ffc-5687-9b6f-319f4cb6df70" id="42">
+        <date>2020-03-06T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>what-questions-may-come-with-openstreetmap</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>What Questions May Come With OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>First you ask yourself "is this a good edit?" Then "how to systematically catch vandalism on the map?". And after that - "maybe OSM isn't just a map?"
+
+Geographer. Data RAVE Specialist.</description>
+        <logo></logo>
+        <persons>
+          <person id="43">Natallia Hancharyk</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="d7006d52-4f0c-5da6-b38a-da3d40e739c4" id="43">
+        <date>2020-03-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>odbl-in-twelve-examples</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>ODbL in twelve examples</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Using OpenStreetMap sometimes feels like a dangerous affair because of its virus-like open license. Often there is little reason to worry: despite being complex, the license also allows quite a lot. Let's see what you can do without triggering a share-alike clause.
+
+Ilya has been deeply interested in OpenStreetMap since 2010. He tried everything: mapped a lot, proposed tagging schemas, edited a blog and a telegram channel, made two podcasts, organized mapping parties and conferences, wrote JOSM plugins, API tools, editors, geocoders, and various maps.</description>
+        <logo></logo>
+        <persons>
+          <person id="44">Ilya Zverev</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="fc0bef90-fe27-59d4-861e-463255e5dd7a" id="44">
+        <date>2020-03-06T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>OSM</room>
+        <slug>winds-of-change-in-openstreetmap</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Winds of Change in OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the OSM Foundation Board should deal with them.
+
+Allan Mustard is a retired U.S. Ambassador as well as a long time OpenStreetMap contributor. Since last December he is the chairperson of the OSM Foundation board of directors. He was sworn in as U.S. Ambassador to Turkmenistan on November 25, 2014 and retired from that position in June 2019 after almost 38 years of public service. Allan helped to greatly improve OSM in Turkmenistan during his years there. He previously served as Agricultural Minister-Counselor at the U.S. Embassy in New Delhi, India. A widely recognized authority on agricultural and food aid policy, he has broad experience in guiding economic reform assistance throughout Eastern Europe and the former Soviet Union.</description>
+        <logo></logo>
+        <persons>
+          <person id="1">Allan Mustard</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+  </day>
+</schedule>

@@ -47,5 +47,7 @@ in at the OSM stage.
 
 For the complete schedule of the Baltic GIT Conference, see [their website](https://www.balticgitconf.eu/).
 
+Want the conference schedule on your phone, with bookmarking and notifications? [Click here](mobile.html) for the codes.
+
 Subscribe to our [twitter](https://twitter.com/sotmbaltics) for updates.
 Questions? Send them to [org@sotm-baltics.org](mailto:org@sotm-baltics.org).

@@ -17,7 +17,7 @@ UID:pretalx-balticgit2020-3cba964e-e53d-5407-bf40-3c9e4001ad13@www.balticgi
 DTSTART;TZID="+02:00":20200306T090000
 DTEND;TZID="+02:00":20200306T092000
 DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Opening Speech — 
 END:VEVENT
@@ -38,7 +38,7 @@ DESCRIPTION:Allan Mustard describes how OpenStreetMap changed lives for the
  y recognized authority on agricultural and food aid policy\, he has broad 
  experience in guiding economic reform assistance throughout Eastern Europe
   and the former Soviet Union.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:I'm Tired of Getting Lost — Allan Mustard
 END:VEVENT
@@ -65,7 +65,7 @@ DESCRIPTION:LMT is one of the first companies to implement the 5G network\,
  es Department. Ingmars is a member of the Latvian Internet Association and
   a member of the State Administration Policy Development Council. He is al
  so a national guard with the NG Student Battalion.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:The Arrival of 5G & Examples of Digital Transformation — Ingmars 
  Pukis
@@ -92,7 +92,7 @@ DESCRIPTION:EUROGI\, the European Umbrella Organisation for Geographic Info
  ROGI and is currently the President of IRLOGI\, the Irish Organisation for
   Geographic Information. Bruce is currently on the Executive Committee of 
  EUROGI.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Beyond Spatial Data Infrastructures — Bruce McCormack
 END:VEVENT
@@ -119,7 +119,7 @@ DESCRIPTION:In today's connected and super-fast world\, location data is th
  orities in the Central European region. Together with different HERE partn
  ers\, he also been looking for innovative solutions in IoT\, Smart Cities 
  and Autonomous Transportation developments.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:HERE Studio and creation of custom Web Maps — Martin Svec
 END:VEVENT
@@ -141,13 +141,13 @@ DESCRIPTION:Ajapaik is a crowdsourcing platform for enriching the metadata
  lowing the global trends in digitising (photographic) heritage\, participa
  tory museum approach and crowdsourcing. Since 2012\, Vahur has been dedica
  ted full time to developing crowdsourcing platform Ajapaik.ee.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:Mapping the history on old pictures – experience of Ajapaik.ee cr
  owdsourcing platform — Vahur Puik
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-6caf2798-71c4-52d5-871a-f91ddccb2463@www.balticgi
+UID:pretalx-balticgit2020-170773e1-03fc-5f19-81f5-1fd71f23d07c@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T103000
 DTEND;TZID="+02:00":20200306T110000
@@ -161,8 +161,8 @@ DESCRIPTION:Important aspects of cartography\, like generalisation\, are us
  olve them.\n\nHead of Productivity engineering department at iTree Group w
  ith more than 20 years of experience in IT. Active member of OpenStreetMap
   since 2008. Member of Lithuanian Cartographic Society.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:Cartography using open source tools - topo.openmap.lt — Tomas Str
  aupis
 END:VEVENT
@@ -171,8 +171,24 @@ UID:pretalx-balticgit2020-652245c3-e9f7-5f77-b963-fa3b462d2c22@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T110000
 DTEND;TZID="+02:00":20200306T113000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Today many organizations are searching for effective solutions 
+ that will help to minimise the cost for on the spot monitoring - some are 
+ using drones\, others satellite images and the third ones are using a mix 
+ of different solutions. But is entirely automated monitoring even possible
+ ? CGI Estonia has been working in cooperation with Estonian Agricultural a
+ nd Registers Board to find solutions for this problem. During the presenta
+ tion an overview will be given about the concept of automatic monitoring\,
+  the applications/tools that are already in use or potentially coming into
+  use and different challenges we have encountered.\n\nKreet is an GIS enth
+ usiast\, who believes that geospatial data and GIS solutions can help to e
+ nhance process efficiency. Her backround is related to geoinformatics (Mas
+ ters Degree in Geoinformatics) and information system analysis (Masters De
+ gree in Information Systems Analysis). She has been working as GIS special
+ ist in different companies and during Census 2011 was a GIS team lead in S
+ tatistics Estonia. From 2017 she has been working as project manager/analy
+ st in different GIS related software development projects and currently sh
+ e is leading geospatial team in CGI Estonia.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Geo-enabled solutions for automatic monitoring process — Kreet So
  lnask
@@ -182,8 +198,25 @@ UID:pretalx-balticgit2020-ca432271-57cc-513d-bcaa-55834cd530e0@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T110000
 DTEND;TZID="+02:00":20200306T113000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:We believe that production and maintenance of topographic data 
+ is convenient\, fast and with less human error. Currently\, a lot of time 
+ and human resources are spent checking the logic of topographic plans and 
+ their compliance with the specification. Therefore\, we have created a Top
+ ographic Information Verification and Management Platform that provides th
+ e user for ease of use\, adaptability\, and increased productivity in topo
+ graphic information verification and maintenance. The Topoweb.lv platform 
+ provides the verification of topographic and related data\, the maintenanc
+ e of data in the database and its release to users. We will present the cu
+ rrent solutions and future development plans.\n\nMaris Krievs has been a M
+ ember of the Board for TopoDati since 2014. Under Maris’s guidance\, the
+  development of a topographic data maintenance system was started. It did 
+ not take long when a service for automated verification of topographic dat
+ a specification was offered in 2016. In 2017\, automated release of data o
+ n territories of interest was introduced. In 2019\, a topographic data log
+ ic verification system was introduced. In addition\, a system has been dev
+ eloped for checking / comparing the survey data on public utilities agains
+ t historical data in the database.
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Modern GIS systems for topographical data management needs in Latvi
  a — Maris Krievs
@@ -193,13 +226,27 @@ UID:pretalx-balticgit2020-d00d9747-1e30-5a34-b6b4-a8395852ad8d@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T110000
 DTEND;TZID="+02:00":20200306T113000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:European Space Imaging is the only European satellite data prov
+ ider operating its own ground station for direct satellite tasking and loc
+ al data uplink and downlink to Maxar’s fleet of satellites. This include
+ s: last minute tasking and rapid delivery\, optimized collection strategy 
+ & flexibility with notification services\, improved image quality and clou
+ d-free area collections due to real-time weather assessment and archive ca
+ talog offering. The presentation introduces the collection process through
+  Direct Tasking\, and the potential of Very High Resolution acquired at 30
+  cm resolution with 8 spectral bands illustrated by use cases.\n\nArnaud D
+ urand has extensive experience managing Earth Observation projects\, among
+ st others within the Copernicus environment. Previously he has conducted s
+ everal successful consulting missions for the European Commission and the 
+ United Nations. Presently in his role as Sales Manager at European Space I
+ maging\, he manages the partnerships and sales strategies for numerous cou
+ ntries within Europe and North Africa.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:Direct tasking of 30cm satellite imagery — Arnaud Durand
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-09aa6613-1215-5e45-9676-b6d25812d7d8@www.balticgi
+UID:pretalx-balticgit2020-494e904b-6c1f-5b19-b3eb-315864089fc0@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T110000
 DTEND;TZID="+02:00":20200306T113000
@@ -209,8 +256,8 @@ DESCRIPTION:Should a free map be flat? How 3D-OSM came into beeing? Are "Si
  n: made a conversion for a popular navigation tool and many useful validat
  ors. After presenting at many local and international conferences\, took a
   break — to return with an avid interest for 3D.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:3D in OSM. Current State and future — Kirill Bondarenko
 END:VEVENT
 BEGIN:VEVENT
@@ -218,8 +265,23 @@ UID:pretalx-balticgit2020-3e7fe4e2-91b8-5d82-8ef8-4dfaec09cc13@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T113000
 DTEND;TZID="+02:00":20200306T120000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:For the past decade JSC Latvia’s State Forests has developed 
+ geospatial information technology platform LVM GEO\, used not only for man
+ aging more than half of Latvia’s forests\, but also for mapping waterbod
+ ies\, managing agriculture lands\, maintaining roads and analyzing spread 
+ of diseases. One the most challenging projects for the LVM GEO development
+  team has been implementation of the LVM GEO platform for AS Augstspriegum
+ a tikls (AST) – the independent electricity transmission system operator
+  in Latvia. In his presentation Maris will be sharing our experience\, cha
+ llenges and successes in implementing a fully functional platform in produ
+ ction for AST in less than 6 months.\n\nMaris is the geospatial informatio
+ n technology business founder and manager at the JSC Latvia's State Forest
+ s with many years and projects experience in the industry. He is a board m
+ ember of Latvia’s GIS Association and is actively involved in geospatial
+  information policy development\, drives the open geospatial data movement
+  and stimulates industry stakeholders to collaborate and develop sustainab
+ le solutions and projects.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:The Backbone of Latvia's Electricity System in the LVM GEO Platform
   — Maris Kuzmins
@@ -239,7 +301,7 @@ DESCRIPTION:Vector tiles is an emerging method for delivering base maps\, t
   web and mobile apps.\n\nMatīss Zervēns is a software engineer for Jāņ
  a sēta Map Publishers with five years’ experience in developing GIS sol
  utions.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Pioneering vector tiles in Latvia — Matiss Zervens\, Davis Valter
  s Immurs
@@ -249,13 +311,23 @@ UID:pretalx-balticgit2020-f306e365-cfd2-51f0-a091-ae23d9a2f39b@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T113000
 DTEND;TZID="+02:00":20200306T120000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Tallinnovation is a presentation from municipal point of view t
+ o the GIS technology. We will share our experience and thought by introduc
+ ing our lessons learned\, new challenges and vision for the future. Keywor
+ ds are city model\, dashboard\, planning and problem solving.\n\nIvari Ran
+ nama has BSc degree in geoinformatics from University of Tartu. He joined 
+ the Tallinn Urban Planning Department on March 2006. First as leading geoi
+ nformation specialist and now he has lead the Geomatics Service as a Direc
+ tor over 7 years. Resent years Ivari Rannama has participated in developin
+ g process of digital services of Tallinn Planning Register\, Tallinn Spati
+ al Data Register\, Geodetical Surveys register\, Geoportal\, mobile app 
+ “AvaLinn” (Open the City) and 3d city model.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:Tallinnovation — Ivari Rannamaa
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-b964f348-9220-552d-b85a-128d901a9074@www.balticgi
+UID:pretalx-balticgit2020-c049491a-fef1-5490-a0ff-046fde5debb4@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T113000
 DTEND;TZID="+02:00":20200306T120000
@@ -263,8 +335,8 @@ DESCRIPTION:Among the most active mappers in Estonia\, Sviatoslav Mikhailov
   has coordinated the building import over the country\, has made many vali
  dators\, and connects the communities. Recently he's been interested in DR
  -GPS and Mapillary imagery.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:360° photos from a car + DR-GPS — Sviatoslav Mikhailov
 END:VEVENT
 BEGIN:VEVENT
@@ -272,8 +344,15 @@ UID:pretalx-balticgit2020-6835786a-4852-56ed-94f4-9cab56668931@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T120000
 DTEND;TZID="+02:00":20200306T123000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Mapping and geospatial functions help you make better decisions
+  when blending them with traditional business data. This allows you to vis
+ ualize\, analyze\, and get a more complete view of your data to solve comp
+ lex location-based problems.\n\nJonas Karlsson has a long background in th
+ e IT industry and for the last 10+ years is a core member of the geoanalyt
+ ics company Idevio\, which became Qlik GeoAnalytics in 2016. At Qlik he no
+ w is a member of a global enterprise architecture team. On his spare time 
+ Jonas is a devoted trail runner and skier.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Enhancing your data experience with maps and geodata — Jonas Karl
  sson
@@ -307,7 +386,7 @@ DESCRIPTION:Space based services\, based on earth observation\, satellite n
  ng University (Sweden) in Applied Physics and Electrical Engineering\, and
   a PhD from Aachen University of Technology (Germany) in Electrical Engine
  ering and Information Technology.
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Bringing Space to Earth — Stefan Gustafsson
 END:VEVENT
@@ -316,13 +395,23 @@ UID:pretalx-balticgit2020-0a9ff2e8-5724-5dfb-a984-c098c290735a@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T120000
 DTEND;TZID="+02:00":20200306T123000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:We recognize that more and more organizations are choosing mobi
+ le solutions for data management purposes. We have developed the LVM GEO M
+ obile application\, that provides professional tools and functionality on 
+ top of the publicly available functionality. Professional data collection 
+ in the field\, specific data layers\, information for different recreation
+ al events or educational purposes are among the most popular use-cases. Wi
+ th this app you can solve very specific tasks. We will tell you about curr
+ ently available options as well as our development plans.\n\nKatrina is a 
+ geospatial project manager at the JSC Latvia's State Forests. Her focus is
+  on implementing the latest GIT solutions in diverse business environments
+  and organizations.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:LVM GEO Mobile for professional use — Katrina Amerika
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-04720159-a329-56bd-b5f0-026d339f96f8@www.balticgi
+UID:pretalx-balticgit2020-17bc4f79-e3d6-55e4-a199-8700217f3f10@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T120000
 DTEND;TZID="+02:00":20200306T123000
@@ -342,8 +431,8 @@ DESCRIPTION:Mappost and Latvia`s State Forests have been working together o
  ārtiņš Vimba is a geographer\, CEO of “Mappost” Ltd. with more than
   10 years of experience in implementing route planning and optimization so
  lutions to support various business processes and reduce costs.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:Challenges of using OSRM for timbertruck routing — Aleksandrs Sav
  eļjevs\, Mārtiņš Vimba\, Rolands Rihters
 END:VEVENT
@@ -352,8 +441,16 @@ UID:pretalx-balticgit2020-1b307d0b-42e2-537c-b303-30f571619b53@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T133000
 DTEND;TZID="+02:00":20200306T140000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Recycling plants carry out work with large-scale objects that r
+ equire extensive storage space. In order for warehouse workers to be able 
+ to quickly navigate their work environment\, it is necessary to know a pre
+ cise location of different objects\, humans and machinery. Indoor mapping 
+ allows you to position objects and people in closed environments. The pres
+ entation will provide an insight into the solution used by the largest gro
+ up of environmental management companies in the Baltic.\n\nArturs Trauberg
+ s is a leading specialist at Autentica with 15 years of experience in the 
+ development of geographic information systems.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Indoor mapping of waste management warehouse — Arturs Traubergs
 END:VEVENT
@@ -362,8 +459,17 @@ UID:pretalx-balticgit2020-0bdede3f-ef57-5b2d-a267-eff0f9135381@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T133000
 DTEND;TZID="+02:00":20200306T140000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Striking differences between the boundaries of villages defined
+  by municipalities and actual distribution of population prompted Central 
+ Statistical Bureau to release statistics for densely populated areas of La
+ tvia which is a new concept and an alternative to the existing administrat
+ ive areas and territorial units\, i.e.\, cities and villages. The presenta
+ tion will provide an insight into the concept of densely populated area an
+ d describe population distribution in Latvia.\n\nDāvis Kļaviņš is a GI
+ S expert at the Central Statistical Bureau of Latvia. He is responsible fo
+ r geocoding statistical data and making them accessible to the public in a
+  form of maps and geospatial data.
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Densely Populated Areas of Latvia — Davis Klavins
 END:VEVENT
@@ -372,14 +478,24 @@ UID:pretalx-balticgit2020-c3182081-14f0-5b9c-8c6e-819c35405f81@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T133000
 DTEND;TZID="+02:00":20200306T140000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Current state of Ukrainian open data ecosystem is at a fairly h
+ igh level and has a tendency to increase\, as confirmed by international r
+ ankings\, such as Open Data Barometer. These achievements have been provid
+ ed by adoption of The Open Data Charter and other international principles
+  in this field at the national level but same time local governments show 
+ different speeds of open data concept implementation. In the presentation 
+ made an attempt to propose principles of building local communities` open 
+ data ecosystems met the goals of sustainable development and are a catalys
+ t of innovative processes in the region.\n\nAssociate professor of Nationa
+ l technical university «Kharkiv polytechnic institute»\, Kharkiv\, Ukrai
+ ne.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:The Local Communities’ Competitiveness Improving Through Open Dat
  a Ecosystems Optimal Engineering — Alexander Skvorchevsky
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-ed53ec88-882e-5551-b04d-0284dfdb6d4e@www.balticgi
+UID:pretalx-balticgit2020-241548f9-ebec-54f6-80e5-851f2866af7b@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T133000
 DTEND;TZID="+02:00":20200306T140000
@@ -388,8 +504,8 @@ DESCRIPTION:During our work on Guru Maps we have developed many interesting
  ce this is especially difficult because of limited resources.\n\nFounder a
  nd developer of Guru Maps mobile application for iOS and Android\, and an 
  active member of the Belarussian OSM community
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:Offline address search on the OSM data — Evgen Bodunov
 END:VEVENT
 BEGIN:VEVENT
@@ -397,8 +513,15 @@ UID:pretalx-balticgit2020-1c7b217e-7db0-5e57-a692-47b5058fc456@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T140000
 DTEND;TZID="+02:00":20200306T143000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:We believe that GIS is not a product for a narrow range of indu
+ stries\, as GIS functions can make a valuable part of business processes a
+ cross a wider range of industries. We have developed a GIS with respect to
+  expectations of new users: ease of use\, mobility and adaptability. Let i
+ nformation be the value!\n\nJānis Heinsbergs has been Metrum Corporate Cu
+ stomer Relations Manager since 2016. Previously\, he worked in: newspaper 
+ publishing\, advertising production and water supply industries\, thus lea
+ rning the daily routine and needs of many other companies in the industry.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Modern GIS systems for different business needs — Janis Heinsbergs
 END:VEVENT
@@ -407,8 +530,20 @@ UID:pretalx-balticgit2020-caa5def8-54c2-570d-866a-2220ba971f09@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T140000
 DTEND;TZID="+02:00":20200306T143000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Data is the basis for the digital transformation of every insti
+ tution\, enterprise and economy. By digitizing processes and services inst
+ itutions and companies are creating valuable data not only for themselves 
+ but also for others. Sharing data is a prerequisite for the successful dig
+ ital development of society. The challenge is - how to make data sharing e
+ ffective? The Latvian geo-portal Geolatvija.lv is the state's answer to th
+ is challenge in the field of geospatial information. What is Geolatvija.lv
+  today and what is its development strategy on the way to a national marke
+ tplace of geospatial information?\n\nUnder Uģis Bisenieks lead the Latvia
+ n Population Register information system and implementation projects of pu
+ blic e-government sharing platforms were developed. Currently he leads Lat
+ via's digital transformation strategy and implementation of a unified publ
+ ic administration ICT architecture.
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Geolatvija.lv today and its development strategy — Ugis Bisenieks
 END:VEVENT
@@ -417,14 +552,29 @@ UID:pretalx-balticgit2020-ad176a1c-fd07-5865-a381-16028a3ef0bd@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T140000
 DTEND;TZID="+02:00":20200306T143000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:The Soil Map of Estonia is a vector dataset that maps more than
+  750 000 soil units throughout Estonia at a scale of 1:10 000. It describe
+ s the soil type\, quality\, texture\, and layer information with a series 
+ of complex text codes. However\, these codes are not useful for quantitati
+ ve large scale analyses. We present a standardised automated method to tra
+ nslate and standardise these text codes into numerical variables for depth
+ s\, texture (clay\, silt\, sand components) and more.\n\nAlex is a Distrib
+ uted Spatial Systems Researcher with many years of experience in geospatia
+ l data management and web- and cloud-based geoprocessing with a particular
+  focus on land use\, soils\, hydrology\, and water quality data. His inter
+ ests include OGC standards and web-services for environmental and geo-scie
+ ntific data sharing\, modelling workflows and interactive geo-scientific v
+ isualisation. Alex is currently a Marie Skłodowska-Curie Individual Fello
+ w (MSCA) at the University of Tartu where his aim is to improve standardis
+ ed data preparation\, parameterization and parallelisation for hydrologica
+ l and water quality modelling across scales (H2020 GLOMODAT).
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:Getting more out of the soil map: Deriving advanced numerical param
  eters from the Soil Map of Estonia — Alexander Kmoch
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-d14cde23-ed49-5f20-9d38-e04574bb383d@www.balticgi
+UID:pretalx-balticgit2020-e98292fb-8bf8-529f-a30f-413fe6c566e1@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T140000
 DTEND;TZID="+02:00":20200306T143000
@@ -435,8 +585,8 @@ DESCRIPTION:We'll discuss the deep neural network applications for mapping
  g at Microsoft and MathWorks. His primary interests are in computer assist
  ed mapping\, signal/image processing\, numerical modeling and distributed 
  machine learning applications.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:Using AI to Map the World with RapiD editor — Danil Kirsanov
 END:VEVENT
 BEGIN:VEVENT
@@ -444,8 +594,19 @@ UID:pretalx-balticgit2020-470c379f-b7cd-5605-93f9-f9e0c709344e@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T143000
 DTEND;TZID="+02:00":20200306T150000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:For E-commerce in a retail industry always one of the most chal
+ lenging aspects for technological process successful implementation is to 
+ maximally rationally match customers' locations with the existing size of 
+ the fleet and delivery capacity. It is very important to correctly and eff
+ ectively split customer flow into ones within delivery service reach and i
+ dentify where we can provide the best e-commerce experience through RIMI i
+ nnovative click & collect service for our customers. Geospatial data servi
+ ces are indispensable and therefore spatial data quality and service relia
+ bility are of top importance.\n\nJanis Jakaitis is the lead of IT e-commer
+ ce stream at RIMI Baltic group. Jānis has a successful long-term experien
+ ce in large IT project management. His team covered integration of more th
+ an 25 services into the new e-commerce platform.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:The role of geospatial data services in implementing and launching 
  a new e-commerce platform in the Baltic states — Janis Jakaitis\, Valdis
@@ -456,8 +617,16 @@ UID:pretalx-balticgit2020-3264a66b-8077-5fba-b5af-0318e9fcdf8c@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T143000
 DTEND;TZID="+02:00":20200306T150000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:The use case of Lithuania for the implementation of national SD
+ I and publishing of INSPIRE compliant network services for the data themes
+  referred to in the Directive will be reviewed in the presentation. Switch
+ ing from proprietary to open source GIS technologies will be presented. SE
+  “GIS-Centras” implements the project by its own and no contractors ar
+ e involved in the project. Data processes automation\, cost benefit analys
+ is for system support will be announced.\n\nPhD Andrius Balciunas – head
+  of IT department at SE „GIS-Centras“\, lecturer of Vilnius University
+  and chairman of Lithuanian Cartographic Society.
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Build INSPIRE Ready GIS Platform Using Open Source GIS (Use Case of
   Lithuania) — Dr. Andrius Balciunas\, Rita Viliuvienė
@@ -467,14 +636,25 @@ UID:pretalx-balticgit2020-33f88538-8bd1-5b9c-950a-68208ccc9ff2@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T143000
 DTEND;TZID="+02:00":20200306T150000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Rapid changes in the environment and society\, and fast develop
+ ments in geospatial technology have increased the need for geospatial skil
+ ls in many fields\, e.g. environmental management\, urban planning. This i
+ n turn will increase the demand for geospatial education. We will present 
+ some of the lessons learned from our Estonian and international MSc progra
+ mme for Geoinformatics.\n\nEvelyn Uuemaa is senior researcher in geoinform
+ atics and head of the Department of Geography at University of Tartu. She 
+ is developing Landscape Geoinformatics working group as a necessity to imp
+ rove and strengthen environmental geoinformatics capabilities at the Unive
+ rsity of Tartu and for Estonia in general. Her research interests evolve a
+ round the interactions of land use/land cover and water quality. She is a 
+ geospatial and open data enthusiast\, foodie and coffee junkie.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:Teaching Geoinformatics – challenges and opportunities — Evelyn
   Uuemaa
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-2bf91ebc-3a6b-5e3c-adc6-a28b135ef684@www.balticgi
+UID:pretalx-balticgit2020-ddbc248a-c312-5617-826c-dbe7dd2d556b@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T143000
 DTEND;TZID="+02:00":20200306T150000
@@ -482,8 +662,8 @@ DESCRIPTION:We invite everyone who used OSM and liked it\, or failed\, or w
  as amazed with its options\, to give a very short five-minute talk on anyt
  hing related to OpenStreetMap. No advance registration is needed\, it's op
  en mic!
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:Lightning Talks — 
 END:VEVENT
 BEGIN:VEVENT
@@ -491,8 +671,17 @@ UID:pretalx-balticgit2020-d788d8fc-bf7c-5b5d-8f8f-7968aa2cd0d7@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T153000
 DTEND;TZID="+02:00":20200306T160000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Tools such as QGIS\, PostGIS and GeoServer are widely used for 
+ different applications. The FOSS4G software stack has multiple mature solu
+ tions for analysis\, manipulation and visualization of geospatial data. In
+  the talk different tools are presented through various use cases and exam
+ ples. What are the common misconceptions regarding FOSS4G and what kind of
+  business potential there lies?\n\nSpecialized in open source geospatial s
+ oftware Topi is working as a GIS consultant in Finland at Gispo Ltd\, wher
+ e he is also a business partner. Topi is also very active in the open sour
+ ce community in many different ways and just in November he launched #30Da
+ yMapChallenge on Twitter\, which received attendees around the globe!
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Have no fear\, open source is here! — Topi Tjukanov
 END:VEVENT
@@ -501,8 +690,21 @@ UID:pretalx-balticgit2020-9af62f61-4602-58d7-8f66-2f196c5ebf90@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T153000
 DTEND;TZID="+02:00":20200306T160000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:"Destination Lithuanian America" interactive online map ( http:
+ //map.truelithuania.com ) covers 600+ Lithuanian churches\, monuments\, fa
+ mous burials\, club buildings and other heritage in the Americas. Initiall
+ y\, this project may have seemed nearly impossible to pull off: it faced m
+ ajor budget and time constraints\, while all the locations-to-be-mapped we
+ re far from Lithuania and most of them had no known coordinates or address
+ es. Nevertheless\, the leader of the project Augustinas Žemaitis devised 
+ ways not only to complete the project on time and within budget\, but also
+  to nearly triple its scope. He explains how was it possible to efficientl
+ y collect such distant-yet-important data and map it.\n\nAugustinas Žemai
+ tis is a researcher and mapper of Lithuanian heritage abroad. He is the fo
+ under and author of 17 websites\, among them http://global.truelithuania.c
+ om (encyclopedia of Lithuanian heritage abroad) and http://map.truelithuan
+ ia.com (map of Lithuanian heritage in the Americas).
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:"Destination Lithuanian America": efficient mapping of 600+ Lithuan
  ian-American heritage sites — Augustinas Zemaitis
@@ -512,22 +714,38 @@ UID:pretalx-balticgit2020-44a3fd79-888d-50c8-b9e2-7261279784d7@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T153000
 DTEND;TZID="+02:00":20200306T160000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Road traffic collisions happen every day in densely built urban
+  areas. One of the main tasks for traffic police is to gather all the need
+ ed evidence from collision scene and ensure that thorough investigation is
+  being conducted afterward. The quality of the investigation is directly d
+ ependent of how realistically the collision scene is being reconstructed a
+ nd how much time is being spent on data and evidence gathering on the scen
+ e. This presentation is focusing to compare traditional police data and ev
+ idence gathering practices with the new ones like drone RGB and IR camera 
+ as well as terrestrial scanner during road traffic collisions.\n\nAndres M
+ umma is a former tactical level incident commander in fire/rescue services
+  working there for the past 24 years and he left fire/rescue industry in a
+ utumn 2018 because he belives that GIS “revolution” inside public safe
+ ty industry can be achived mainly through research and education. Starting
+  from September 2018 he is the head of center of excellence at Estonian Ac
+ ademy of Security Sciences and focusing in the research\, education\, trai
+ ning and application of drones and remote sensing inside the public safety
+  industry.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
 SUMMARY:Road traffic collision scene reconstruction: comparing traditional 
  police methods with new ones — Andres Mumma
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-743d3e44-0ffc-5687-9b6f-319f4cb6df70@www.balticgi
+UID:pretalx-balticgit2020-988364da-327c-507c-a48b-588a50cd62bf@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T153000
 DTEND;TZID="+02:00":20200306T160000
 DESCRIPTION:First you ask yourself "is this a good edit?" Then "how to syst
  ematically catch vandalism on the map?". And after that - "maybe OSM isn't
   just a map?"\n\nGeographer. Data RAVE Specialist.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:What Questions May Come With OpenStreetMap — Natallia Hancharyk
 END:VEVENT
 BEGIN:VEVENT
@@ -535,8 +753,21 @@ UID:pretalx-balticgit2020-df019566-4230-518a-b3c8-3f283ca593b9@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T160000
 DTEND;TZID="+02:00":20200306T163000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:The preliminary results of the RITA programme Remote sensing pr
+ oject for improvement of public services will be presented. The projects i
+ s dealing with four areas\, two of them will be presented: a) Prevention a
+ nd suppression of wildfires\, overseen by the Rescue Board and the Ministr
+ y of the Interior\; b) Monitoring the use of agricultural land\, overseen 
+ by the Agricultural Registers and Information Board and the Ministry of Ru
+ ral Affairs.\n\nTõnu Oja is professor of geoinformatics and cartography\,
+  University of Tartu. Diploma in mathematics 1978\, PhD in biology/ecology
+  1985. His major research interests are landscape metrics\, uncertainties 
+ and relations to landscape consumption\; spatial relations of real world p
+ henomena\; nutrient cycling in the system plant-soil-atmosphere\, environm
+ ental impacts to spatio-temporal structure of nutrient cycling\, dynamics 
+ and structure of forest ecosystems\; sustainable development\, including i
+ ndicators and regionalisation. Member of the board of ESTGIS since 2010.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Remote sensing for improvement of public services — Tõnu Oja
 END:VEVENT
@@ -545,23 +776,43 @@ UID:pretalx-balticgit2020-f95dc849-4619-54ce-95a5-fb23a111402e@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T160000
 DTEND;TZID="+02:00":20200306T163000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Qlik Associative in-memory Analytics merged with geospatial inf
+ ormation (i.e.\, LVM GEO) provide new insights for business. Learn how any
+  combination of data is accessible to users\, how machine learning finds a
+ nd highlights new insights and how it can be embedded anywhere.\n\nSince 2
+ 001 Maris Svilans has managed Infotrust and delivered over 90 data analyti
+ cs projects across Baltics and Denmark enabling customers to become data d
+ riven organizations.
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:Augmented Intelligence: 3rd Generation of BI — Maris Svilans
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-e7830481-56e4-53f0-a87b-97dd182cb33e@www.balticgi
+UID:pretalx-balticgit2020-986cf666-34c6-5faa-b5c8-8e9647373e91@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T160000
 DTEND;TZID="+02:00":20200306T163000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:It is estimated that heavy-duty vehicles (trucks) represent 30%
+  of all road transportation\, and 5% of all EU CO2 emissions. Therefore vi
+ sibility\, analysing\, optimisations and reductions in commercial transpor
+ tation footprint are not only useful to improve travel times and costs for
+  businesses\, but it also contributes to significant reduction of global g
+ reenhouse gases. This sector sees this as important target for the green f
+ uture. My talk is technology-oriented view to the challenges of the first 
+ steps towards it: how small company started in Estonia now does collection
+  and consolidation of billions of real-time locations of trucks\, combines
+  it with real-time traffic and GIS datasets and builds machine learning mo
+ dels to reveal hidden patterns and reduction opportunities.\n\nJaak has be
+ en active in geoinformatics field for over 20 years\, as technical lead in
+  companies like Regio\, Reach-U\, Nutiteq\, CARTO and now in Sixfold. He h
+ as been also active in Estonian geoinformatics society (EstGIS) and OpenSt
+ reetMap Foundation.
+DTSTAMP:20200302T100503Z
 LOCATION:GAMMA
-SUMMARY:TBD — 
+SUMMARY:GIS and Machine Learning in logistics — Jaak Laineste
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-d7006d52-4f0c-5da6-b38a-da3d40e739c4@www.balticgi
+UID:pretalx-balticgit2020-6ed45d20-b3fa-5fa4-98a5-2c537fa158cb@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T160000
 DTEND;TZID="+02:00":20200306T163000
@@ -573,8 +824,8 @@ DESCRIPTION:Using OpenStreetMap sometimes feels like a dangerous affair bec
  a lot\, proposed tagging schemas\, edited a blog and a telegram channel\, 
  made two podcasts\, organized mapping parties and conferences\, wrote JOSM
   plugins\, API tools\, editors\, geocoders\, and various maps.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:ODbL in twelve examples — Ilya Zverev
 END:VEVENT
 BEGIN:VEVENT
@@ -582,8 +833,24 @@ UID:pretalx-balticgit2020-952e9efe-b878-5378-9e18-b0d363c87358@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T163000
 DTEND;TZID="+02:00":20200306T170000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:Organizations today are faced with what we call “the Geo-Ops 
+ Challenge\,” or the gap between the geospatial world — the acquisition
+ \, processing\, management\, and distribution of mapping data — and the 
+ operational world — taking this data and analyzing it to take action. An
+ d it’s not just traditional geospatial data anymore\, but also real-time
+  feeds from dozens of sensors that provide video\, pollution\, traffic\, p
+ eople flow\, and even crowd-sourcing data. In this complex and connected w
+ orld\, conventional GIS no longer suffices. Hexagon Geospatial solutions l
+ ink data acquisition with action by interconnecting the geospatial and ope
+ rational worlds. Customers of all sizes – from sites to cities to nation
+ s – use 5D location intelligence to solve real-world\, real-time\, missi
+ on-critical challenges.\n\nAlexander Tasev is the Partner Manager Eastern 
+ Europe & CIS. He has been promoting and implementing Geospatial / BIM tech
+ nologies for over twenty years. Today\, Alexander is working with Hexagon 
+ Geospatial partners to help customers from state and local governments\, c
+ ommercial and non-profit organizations to leverage the power of real-time 
+ location intelligence for reaching their objectives.
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Closing the Gap Between the Geospatial and Operational Worlds — A
  lexander Tasev
@@ -593,24 +860,25 @@ UID:pretalx-balticgit2020-f2ee9ef7-2c99-52ec-8e77-a6c66da3a288@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T163000
 DTEND;TZID="+02:00":20200306T170000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DESCRIPTION:The Estonian Environment Agency in partnership with CGI and Tal
+ Tech Marine Systems Institute are developing a set of integrated tools for
+  weather forecasters to rapidly produce national-level ice maps of Estonia
+ . These tools are based on pre-processed Copernicus Earth Observation imag
+ ery obtained through the Estonian Collaborative Ground Segment (ESTHub) an
+ d in-situ data provided by volunteers and partnering organizations. The pr
+ esenter will give an overview of the system in development\, its capabilit
+ ies and value added to the users.\n\nMartin is leading space and Earth obs
+ ervation activities in CGI Estonia\, an international software development
+  company active in various domains. He is a space enthusiast with a multi-
+ disciplinary background\, experienced in Earth observation\, Space and Geo
+ graphical Information Systems.
+DTSTAMP:20200302T100503Z
 LOCATION:BETA
 SUMMARY:National sea-ice monitoring using Earth Observation imagery — Mar
  tin Jussi
 END:VEVENT
 BEGIN:VEVENT
-UID:pretalx-balticgit2020-986cf666-34c6-5faa-b5c8-8e9647373e91@www.balticgi
- tconf.eu
-DTSTART;TZID="+02:00":20200306T163000
-DTEND;TZID="+02:00":20200306T170000
-DESCRIPTION:
-DTSTAMP:20200228T120505Z
-LOCATION:GAMMA
-SUMMARY:GIS and Machine Learning in logistics — Jaak Laineste
-END:VEVENT
-BEGIN:VEVENT
-UID:pretalx-balticgit2020-fc0bef90-fe27-59d4-861e-463255e5dd7a@www.balticgi
+UID:pretalx-balticgit2020-48869d97-c053-5d3e-a79d-b7a04dd10885@www.balticgi
  tconf.eu
 DTSTART;TZID="+02:00":20200306T163000
 DTEND;TZID="+02:00":20200306T170000
@@ -626,8 +894,8 @@ DESCRIPTION:Allan Mustard offers his personal assessment of challenges faci
  y recognized authority on agricultural and food aid policy\, he has broad 
  experience in guiding economic reform assistance throughout Eastern Europe
   and the former Soviet Union.
-DTSTAMP:20200228T120505Z
-LOCATION:OSM
+DTSTAMP:20200302T100503Z
+LOCATION:DELTA
 SUMMARY:Winds of Change in OpenStreetMap — Allan Mustard
 END:VEVENT
 BEGIN:VEVENT
@@ -636,7 +904,7 @@ UID:pretalx-balticgit2020-603aefd0-3b40-5f37-b067-637e26d90776@www.balticgi
 DTSTART;TZID="+02:00":20200306T170000
 DTEND;TZID="+02:00":20200306T173000
 DESCRIPTION:
-DTSTAMP:20200228T120505Z
+DTSTAMP:20200302T100503Z
 LOCATION:ALFA
 SUMMARY:Closing — 
 END:VEVENT

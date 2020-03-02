@@ -133,7 +133,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Today many organizations are searching for effective solutions that will help to minimise the cost for on the spot monitoring - some are using drones, others satellite images and the third ones are using a mix of different solutions. But is entirely automated monitoring even possible? CGI Estonia has been working in cooperation with Estonian Agricultural and Registers Board to find solutions for this problem. During the presentation an overview will be given about the concept of automatic monitoring, the applications/tools that are already in use or potentially coming into use and different challenges we have encountered.
+
+Kreet is an GIS enthusiast, who believes that geospatial data and GIS solutions can help to enhance process efficiency. Her backround is related to geoinformatics (Masters Degree in Geoinformatics) and information system analysis (Masters Degree in Information Systems Analysis). She has been working as GIS specialist in different companies and during Census 2011 was a GIS team lead in Statistics Estonia. From 2017 she has been working as project manager/analyst in different GIS related software development projects and currently she is leading geospatial team in CGI Estonia.</description>
         <logo></logo>
         <persons>
           <person id="4">Kreet Solnask</person>
@@ -158,7 +160,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>For the past decade JSC Latvia’s State Forests has developed geospatial information technology platform LVM GEO, used not only for managing more than half of Latvia’s forests, but also for mapping waterbodies, managing agriculture lands, maintaining roads and analyzing spread of diseases. One the most challenging projects for the LVM GEO development team has been implementation of the LVM GEO platform for AS Augstsprieguma tikls (AST) – the independent electricity transmission system operator in Latvia. In his presentation Maris will be sharing our experience, challenges and successes in implementing a fully functional platform in production for AST in less than 6 months.
+
+Maris is the geospatial information technology business founder and manager at the JSC Latvia's State Forests with many years and projects experience in the industry. He is a board member of Latvia’s GIS Association and is actively involved in geospatial information policy development, drives the open geospatial data movement and stimulates industry stakeholders to collaborate and develop sustainable solutions and projects.</description>
         <logo></logo>
         <persons>
           <person id="5">Maris Kuzmins</person>
@@ -183,7 +187,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Mapping and geospatial functions help you make better decisions when blending them with traditional business data. This allows you to visualize, analyze, and get a more complete view of your data to solve complex location-based problems.
+
+Jonas Karlsson has a long background in the IT industry and for the last 10+ years is a core member of the geoanalytics company Idevio, which became Qlik GeoAnalytics in 2016. At Qlik he now is a member of a global enterprise architecture team. On his spare time Jonas is a devoted trail runner and skier.</description>
         <logo></logo>
         <persons>
           <person id="6">Jonas Karlsson</person>
@@ -208,7 +214,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>lv</language>
         <abstract></abstract>
-        <description></description>
+        <description>Recycling plants carry out work with large-scale objects that require extensive storage space. In order for warehouse workers to be able to quickly navigate their work environment, it is necessary to know a precise location of different objects, humans and machinery. Indoor mapping allows you to position objects and people in closed environments. The presentation will provide an insight into the solution used by the largest group of environmental management companies in the Baltic.
+
+Arturs Traubergs is a leading specialist at Autentica with 15 years of experience in the development of geographic information systems.</description>
         <logo></logo>
         <persons>
           <person id="7">Arturs Traubergs</person>
@@ -233,7 +241,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>We believe that GIS is not a product for a narrow range of industries, as GIS functions can make a valuable part of business processes across a wider range of industries. We have developed a GIS with respect to expectations of new users: ease of use, mobility and adaptability. Let information be the value!
+
+Jānis Heinsbergs has been Metrum Corporate Customer Relations Manager since 2016. Previously, he worked in: newspaper publishing, advertising production and water supply industries, thus learning the daily routine and needs of many other companies in the industry.</description>
         <logo></logo>
         <persons>
           <person id="8">Janis Heinsbergs</person>
@@ -258,7 +268,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>lv</language>
         <abstract></abstract>
-        <description></description>
+        <description>For E-commerce in a retail industry always one of the most challenging aspects for technological process successful implementation is to maximally rationally match customers' locations with the existing size of the fleet and delivery capacity. It is very important to correctly and effectively split customer flow into ones within delivery service reach and identify where we can provide the best e-commerce experience through RIMI innovative click &amp; collect service for our customers. Geospatial data services are indispensable and therefore spatial data quality and service reliability are of top importance.
+
+Janis Jakaitis is the lead of IT e-commerce stream at RIMI Baltic group. Jānis has a successful long-term experience in large IT project management. His team covered integration of more than 25 services into the new e-commerce platform.</description>
         <logo></logo>
         <persons>
           <person id="9">Janis Jakaitis</person>
@@ -284,7 +296,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Tools such as QGIS, PostGIS and GeoServer are widely used for different applications. The FOSS4G software stack has multiple mature solutions for analysis, manipulation and visualization of geospatial data. In the talk different tools are presented through various use cases and examples. What are the common misconceptions regarding FOSS4G and what kind of business potential there lies?
+
+Specialized in open source geospatial software Topi is working as a GIS consultant in Finland at Gispo Ltd, where he is also a business partner. Topi is also very active in the open source community in many different ways and just in November he launched #30DayMapChallenge on Twitter, which received attendees around the globe!</description>
         <logo></logo>
         <persons>
           <person id="11">Topi Tjukanov</person>
@@ -309,7 +323,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>The preliminary results of the RITA programme Remote sensing project for improvement of public services will be presented. The projects is dealing with four areas, two of them will be presented: a) Prevention and suppression of wildfires, overseen by the Rescue Board and the Ministry of the Interior; b) Monitoring the use of agricultural land, overseen by the Agricultural Registers and Information Board and the Ministry of Rural Affairs.
+
+Tõnu Oja is professor of geoinformatics and cartography, University of Tartu. Diploma in mathematics 1978, PhD in biology/ecology 1985. His major research interests are landscape metrics, uncertainties and relations to landscape consumption; spatial relations of real world phenomena; nutrient cycling in the system plant-soil-atmosphere, environmental impacts to spatio-temporal structure of nutrient cycling, dynamics and structure of forest ecosystems; sustainable development, including indicators and regionalisation. Member of the board of ESTGIS since 2010.</description>
         <logo></logo>
         <persons>
           <person id="12">Tõnu Oja</person>
@@ -334,7 +350,9 @@ Bruce is a professional town and regional planner who has worked for many years 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Organizations today are faced with what we call “the Geo-Ops Challenge,” or the gap between the geospatial world — the acquisition, processing, management, and distribution of mapping data — and the operational world — taking this data and analyzing it to take action. And it’s not just traditional geospatial data anymore, but also real-time feeds from dozens of sensors that provide video, pollution, traffic, people flow, and even crowd-sourcing data. In this complex and connected world, conventional GIS no longer suffices. Hexagon Geospatial solutions link data acquisition with action by interconnecting the geospatial and operational worlds. Customers of all sizes – from sites to cities to nations – use 5D location intelligence to solve real-world, real-time, mission-critical challenges.
+
+Alexander Tasev is the Partner Manager Eastern Europe &amp; CIS. He has been promoting and implementing Geospatial / BIM technologies for over twenty years. Today, Alexander is working with Hexagon Geospatial partners to help customers from state and local governments, commercial and non-profit organizations to leverage the power of real-time location intelligence for reaching their objectives.</description>
         <logo></logo>
         <persons>
           <person id="13">Alexander Tasev</person>
@@ -411,7 +429,9 @@ Martin Švec is Business Development Manager at HERE Technologies. During his 10
         <type>Talk</type>
         <language>lv</language>
         <abstract></abstract>
-        <description></description>
+        <description>We believe that production and maintenance of topographic data is convenient, fast and with less human error. Currently, a lot of time and human resources are spent checking the logic of topographic plans and their compliance with the specification. Therefore, we have created a Topographic Information Verification and Management Platform that provides the user for ease of use, adaptability, and increased productivity in topographic information verification and maintenance. The Topoweb.lv platform provides the verification of topographic and related data, the maintenance of data in the database and its release to users. We will present the current solutions and future development plans.
+
+Maris Krievs has been a Member of the Board for TopoDati since 2014. Under Maris’s guidance, the development of a topographic data maintenance system was started. It did not take long when a service for automated verification of topographic data specification was offered in 2016. In 2017, automated release of data on territories of interest was introduced. In 2019, a topographic data logic verification system was introduced. In addition, a system has been developed for checking / comparing the survey data on public utilities against historical data in the database.</description>
         <logo></logo>
         <persons>
           <person id="15">Maris Krievs</person>
@@ -491,7 +511,9 @@ Stefan Gustafsson has more than twenty years of experience in technology and app
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Striking differences between the boundaries of villages defined by municipalities and actual distribution of population prompted Central Statistical Bureau to release statistics for densely populated areas of Latvia which is a new concept and an alternative to the existing administrative areas and territorial units, i.e., cities and villages. The presentation will provide an insight into the concept of densely populated area and describe population distribution in Latvia.
+
+Dāvis Kļaviņš is a GIS expert at the Central Statistical Bureau of Latvia. He is responsible for geocoding statistical data and making them accessible to the public in a form of maps and geospatial data.</description>
         <logo></logo>
         <persons>
           <person id="19">Davis Klavins</person>
@@ -516,7 +538,9 @@ Stefan Gustafsson has more than twenty years of experience in technology and app
         <type>Talk</type>
         <language>lv</language>
         <abstract></abstract>
-        <description></description>
+        <description>Data is the basis for the digital transformation of every institution, enterprise and economy. By digitizing processes and services institutions and companies are creating valuable data not only for themselves but also for others. Sharing data is a prerequisite for the successful digital development of society. The challenge is - how to make data sharing effective? The Latvian geo-portal Geolatvija.lv is the state's answer to this challenge in the field of geospatial information. What is Geolatvija.lv today and what is its development strategy on the way to a national marketplace of geospatial information?
+
+Under Uģis Bisenieks lead the Latvian Population Register information system and implementation projects of public e-government sharing platforms were developed. Currently he leads Latvia's digital transformation strategy and implementation of a unified public administration ICT architecture.</description>
         <logo></logo>
         <persons>
           <person id="20">Ugis Bisenieks</person>
@@ -541,7 +565,9 @@ Stefan Gustafsson has more than twenty years of experience in technology and app
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>The use case of Lithuania for the implementation of national SDI and publishing of INSPIRE compliant network services for the data themes referred to in the Directive will be reviewed in the presentation. Switching from proprietary to open source GIS technologies will be presented. SE “GIS-Centras” implements the project by its own and no contractors are involved in the project. Data processes automation, cost benefit analysis for system support will be announced.
+
+PhD Andrius Balciunas – head of IT department at SE „GIS-Centras“, lecturer of Vilnius University and chairman of Lithuanian Cartographic Society.</description>
         <logo></logo>
         <persons>
           <person id="21">Dr. Andrius Balciunas</person>
@@ -567,7 +593,9 @@ Stefan Gustafsson has more than twenty years of experience in technology and app
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>"Destination Lithuanian America" interactive online map ( http://map.truelithuania.com ) covers 600+ Lithuanian churches, monuments, famous burials, club buildings and other heritage in the Americas. Initially, this project may have seemed nearly impossible to pull off: it faced major budget and time constraints, while all the locations-to-be-mapped were far from Lithuania and most of them had no known coordinates or addresses. Nevertheless, the leader of the project Augustinas Žemaitis devised ways not only to complete the project on time and within budget, but also to nearly triple its scope. He explains how was it possible to efficiently collect such distant-yet-important data and map it.
+
+Augustinas Žemaitis is a researcher and mapper of Lithuanian heritage abroad. He is the founder and author of 17 websites, among them http://global.truelithuania.com (encyclopedia of Lithuanian heritage abroad) and http://map.truelithuania.com (map of Lithuanian heritage in the Americas).</description>
         <logo></logo>
         <persons>
           <person id="23">Augustinas Zemaitis</person>
@@ -592,7 +620,9 @@ Stefan Gustafsson has more than twenty years of experience in technology and app
         <type>Talk</type>
         <language>lv</language>
         <abstract></abstract>
-        <description></description>
+        <description>Qlik Associative in-memory Analytics merged with geospatial information (i.e., LVM GEO) provide new insights for business. Learn how any combination of data is accessible to users, how machine learning finds and highlights new insights and how it can be embedded anywhere.
+
+Since 2001 Maris Svilans has managed Infotrust and delivered over 90 data analytics projects across Baltics and Denmark enabling customers to become data driven organizations.</description>
         <logo></logo>
         <persons>
           <person id="24">Maris Svilans</person>
@@ -617,10 +647,284 @@ Stefan Gustafsson has more than twenty years of experience in technology and app
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>The Estonian Environment Agency in partnership with CGI and TalTech Marine Systems Institute are developing a set of integrated tools for weather forecasters to rapidly produce national-level ice maps of Estonia. These tools are based on pre-processed Copernicus Earth Observation imagery obtained through the Estonian Collaborative Ground Segment (ESTHub) and in-situ data provided by volunteers and partnering organizations. The presenter will give an overview of the system in development, its capabilities and value added to the users.
+
+Martin is leading space and Earth observation activities in CGI Estonia, an international software development company active in various domains. He is a space enthusiast with a multi-disciplinary background, experienced in Earth observation, Space and Geographical Information Systems.</description>
         <logo></logo>
         <persons>
           <person id="25">Martin Jussi</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+    </room>
+    <room name="DELTA">
+      <event guid="170773e1-03fc-5f19-81f5-1fd71f23d07c" id="34">
+        <date>2020-03-06T10:30:00+02:00</date>
+        <start>10:30</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>cartography-using-open-source-tools-topo-openmap-lt</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Cartography using open source tools - topo.openmap.lt</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Important aspects of cartography, like generalisation, are usually mostly overlooked in today's on-line maps. Some of these problems are being solved using open source tools while creating a vector tile based on-line map topo.openmap.lt. Cartography helps to improve not only the visual, but also the technical result of vector tiles and therefore the maps themselves. Although some solutions are already implemented, a lot of other issues are missing even ideas for high level algorithm to be used to solve them.
+
+Head of Productivity engineering department at iTree Group with more than 20 years of experience in IT. Active member of OpenStreetMap since 2008. Member of Lithuanian Cartographic Society.</description>
+        <logo></logo>
+        <persons>
+          <person id="35">Tomas Straupis</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="494e904b-6c1f-5b19-b3eb-315864089fc0" id="35">
+        <date>2020-03-06T11:00:00+02:00</date>
+        <start>11:00</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>3d-in-osm-current-state-and-future</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>3D in OSM. Current State and future</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Should a free map be flat? How 3D-OSM came into beeing? Are "Simple Building" so simple? How it can be used? Are there any alternatives? When 4D and 5D will arrive?
+
+Joined OSM eleven years ago and dug right in: made a conversion for a popular navigation tool and many useful validators. After presenting at many local and international conferences, took a break — to return with an avid interest for 3D.</description>
+        <logo></logo>
+        <persons>
+          <person id="36">Kirill Bondarenko</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="c049491a-fef1-5490-a0ff-046fde5debb4" id="36">
+        <date>2020-03-06T11:30:00+02:00</date>
+        <start>11:30</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>360deg-photos-from-a-car-dr-gps</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>360° photos from a car + DR-GPS</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Among the most active mappers in Estonia, Sviatoslav Mikhailov has coordinated the building import over the country, has made many validators, and connects the communities. Recently he's been interested in DR-GPS and Mapillary imagery.</description>
+        <logo></logo>
+        <persons>
+          <person id="37">Sviatoslav Mikhailov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="17bc4f79-e3d6-55e4-a199-8700217f3f10" id="37">
+        <date>2020-03-06T12:00:00+02:00</date>
+        <start>12:00</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>challenges-of-using-osrm-for-timbertruck-routing</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Challenges of using OSRM for timbertruck routing</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Mappost and Latvia`s State Forests have been working together on an innovative logistics solver engine project where OSRM technology is used for routing purposes. Timbertruck movement on roads is a much more complex issue than it is for other vehicles due to very practical challenges and specific business needs.
+
+Rolands Rihters is a geospatial solutions development lead at the JSC Latvia`s State Forests with significant experience in developing complex GIS. Together with the team he is developing various geospatial solutions in many organizations in Latvia.
+
+Aleksandrs Saveļjevs is an experienced software developer with a particular interest in algorithms and operations research, formerly a world TOP30 participant in numerous programming competitions. Since 2017 he is mainly working on designing algorithms and developing solutions for solving TSP, VRP problems and their variations, including using open source technologies.
+
+Mārtiņš Vimba is a geographer, CEO of “Mappost” Ltd. with more than 10 years of experience in implementing route planning and optimization solutions to support various business processes and reduce costs.</description>
+        <logo></logo>
+        <persons>
+          <person id="38">Aleksandrs Saveļjevs</person>
+          <person id="39">Mārtiņš Vimba</person>
+          <person id="40">Rolands Rihters</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="241548f9-ebec-54f6-80e5-851f2866af7b" id="38">
+        <date>2020-03-06T13:30:00+02:00</date>
+        <start>13:30</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>offline-address-search-on-the-osm-data</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Offline address search on the OSM data</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>During our work on Guru Maps we have developed many interesting solutions. One of them is address search using OSM data. On a mobile device this is especially difficult because of limited resources.
+
+Founder and developer of Guru Maps mobile application for iOS and Android, and an active member of the Belarussian OSM community</description>
+        <logo></logo>
+        <persons>
+          <person id="41">Evgen Bodunov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="e98292fb-8bf8-529f-a30f-413fe6c566e1" id="39">
+        <date>2020-03-06T14:00:00+02:00</date>
+        <start>14:00</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>using-ai-to-map-the-world-with-rapid-editor</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Using AI to Map the World with RapiD editor</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>We'll discuss the deep neural network applications for mapping and introduce RapiD, an AI-assisted extension of iD OpenStreetMap editor publicly available at www.mapwith.ai.
+
+Danil Kirsanov holds PhD in Applied Math from Harvard and prior to Facebook worked on the scalable computing at Microsoft and MathWorks. His primary interests are in computer assisted mapping, signal/image processing, numerical modeling and distributed machine learning applications.</description>
+        <logo></logo>
+        <persons>
+          <person id="42">Danil Kirsanov</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="ddbc248a-c312-5617-826c-dbe7dd2d556b" id="40">
+        <date>2020-03-06T14:30:00+02:00</date>
+        <start>14:30</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>lightning-talks</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Lightning Talks</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>We invite everyone who used OSM and liked it, or failed, or was amazed with its options, to give a very short five-minute talk on anything related to OpenStreetMap. No advance registration is needed, it's open mic!</description>
+        <logo></logo>
+        <persons/>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="988364da-327c-507c-a48b-588a50cd62bf" id="41">
+        <date>2020-03-06T15:30:00+02:00</date>
+        <start>15:30</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>what-questions-may-come-with-openstreetmap</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>What Questions May Come With OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>First you ask yourself "is this a good edit?" Then "how to systematically catch vandalism on the map?". And after that - "maybe OSM isn't just a map?"
+
+Geographer. Data RAVE Specialist.</description>
+        <logo></logo>
+        <persons>
+          <person id="43">Natallia Hancharyk</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="6ed45d20-b3fa-5fa4-98a5-2c537fa158cb" id="42">
+        <date>2020-03-06T16:00:00+02:00</date>
+        <start>16:00</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>odbl-in-twelve-examples</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>ODbL in twelve examples</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Using OpenStreetMap sometimes feels like a dangerous affair because of its virus-like open license. Often there is little reason to worry: despite being complex, the license also allows quite a lot. Let's see what you can do without triggering a share-alike clause.
+
+Ilya has been deeply interested in OpenStreetMap since 2010. He tried everything: mapped a lot, proposed tagging schemas, edited a blog and a telegram channel, made two podcasts, organized mapping parties and conferences, wrote JOSM plugins, API tools, editors, geocoders, and various maps.</description>
+        <logo></logo>
+        <persons>
+          <person id="44">Ilya Zverev</person>
+        </persons>
+        <links/>
+        <attachments/>
+      </event>
+      <event guid="48869d97-c053-5d3e-a79d-b7a04dd10885" id="43">
+        <date>2020-03-06T16:30:00+02:00</date>
+        <start>16:30</start>
+        <duration>00:30</duration>
+        <room>DELTA</room>
+        <slug>winds-of-change-in-openstreetmap</slug>
+        <url></url>
+        <recording>
+          <license></license>
+          <optout>false</optout>
+        </recording>
+        <title>Winds of Change in OpenStreetMap</title>
+        <subtitle></subtitle>
+        <track></track>
+        <type>Talk</type>
+        <language>en</language>
+        <abstract></abstract>
+        <description>Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the OSM Foundation Board should deal with them.
+
+Allan Mustard is a retired U.S. Ambassador as well as a long time OpenStreetMap contributor. Since last December he is the chairperson of the OSM Foundation board of directors. He was sworn in as U.S. Ambassador to Turkmenistan on November 25, 2014 and retired from that position in June 2019 after almost 38 years of public service. Allan helped to greatly improve OSM in Turkmenistan during his years there. He previously served as Agricultural Minister-Counselor at the U.S. Embassy in New Delhi, India. A widely recognized authority on agricultural and food aid policy, he has broad experience in guiding economic reform assistance throughout Eastern Europe and the former Soviet Union.</description>
+        <logo></logo>
+        <persons>
+          <person id="1">Allan Mustard</person>
         </persons>
         <links/>
         <attachments/>
@@ -671,7 +975,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>European Space Imaging is the only European satellite data provider operating its own ground station for direct satellite tasking and local data uplink and downlink to Maxar’s fleet of satellites. This includes: last minute tasking and rapid delivery, optimized collection strategy &amp; flexibility with notification services, improved image quality and cloud-free area collections due to real-time weather assessment and archive catalog offering. The presentation introduces the collection process through Direct Tasking, and the potential of Very High Resolution acquired at 30 cm resolution with 8 spectral bands illustrated by use cases.
+
+Arnaud Durand has extensive experience managing Earth Observation projects, amongst others within the Copernicus environment. Previously he has conducted several successful consulting missions for the European Commission and the United Nations. Presently in his role as Sales Manager at European Space Imaging, he manages the partnerships and sales strategies for numerous countries within Europe and North Africa.</description>
         <logo></logo>
         <persons>
           <person id="27">Arnaud Durand</person>
@@ -696,7 +1002,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Tallinnovation is a presentation from municipal point of view to the GIS technology. We will share our experience and thought by introducing our lessons learned, new challenges and vision for the future. Keywords are city model, dashboard, planning and problem solving.
+
+Ivari Rannama has BSc degree in geoinformatics from University of Tartu. He joined the Tallinn Urban Planning Department on March 2006. First as leading geoinformation specialist and now he has lead the Geomatics Service as a Director over 7 years. Resent years Ivari Rannama has participated in developing process of digital services of Tallinn Planning Register, Tallinn Spatial Data Register, Geodetical Surveys register, Geoportal, mobile app “AvaLinn” (Open the City) and 3d city model.</description>
         <logo></logo>
         <persons>
           <person id="28">Ivari Rannamaa</person>
@@ -721,7 +1029,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>We recognize that more and more organizations are choosing mobile solutions for data management purposes. We have developed the LVM GEO Mobile application, that provides professional tools and functionality on top of the publicly available functionality. Professional data collection in the field, specific data layers, information for different recreational events or educational purposes are among the most popular use-cases. With this app you can solve very specific tasks. We will tell you about currently available options as well as our development plans.
+
+Katrina is a geospatial project manager at the JSC Latvia's State Forests. Her focus is on implementing the latest GIT solutions in diverse business environments and organizations.</description>
         <logo></logo>
         <persons>
           <person id="29">Katrina Amerika</person>
@@ -746,7 +1056,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Current state of Ukrainian open data ecosystem is at a fairly high level and has a tendency to increase, as confirmed by international rankings, such as Open Data Barometer. These achievements have been provided by adoption of The Open Data Charter and other international principles in this field at the national level but same time local governments show different speeds of open data concept implementation. In the presentation made an attempt to propose principles of building local communities` open data ecosystems met the goals of sustainable development and are a catalyst of innovative processes in the region.
+
+Associate professor of National technical university «Kharkiv polytechnic institute», Kharkiv, Ukraine.</description>
         <logo></logo>
         <persons>
           <person id="30">Alexander Skvorchevsky</person>
@@ -771,7 +1083,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>The Soil Map of Estonia is a vector dataset that maps more than 750 000 soil units throughout Estonia at a scale of 1:10 000. It describes the soil type, quality, texture, and layer information with a series of complex text codes. However, these codes are not useful for quantitative large scale analyses. We present a standardised automated method to translate and standardise these text codes into numerical variables for depths, texture (clay, silt, sand components) and more.
+
+Alex is a Distributed Spatial Systems Researcher with many years of experience in geospatial data management and web- and cloud-based geoprocessing with a particular focus on land use, soils, hydrology, and water quality data. His interests include OGC standards and web-services for environmental and geo-scientific data sharing, modelling workflows and interactive geo-scientific visualisation. Alex is currently a Marie Skłodowska-Curie Individual Fellow (MSCA) at the University of Tartu where his aim is to improve standardised data preparation, parameterization and parallelisation for hydrological and water quality modelling across scales (H2020 GLOMODAT).</description>
         <logo></logo>
         <persons>
           <person id="31">Alexander Kmoch</person>
@@ -796,7 +1110,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Rapid changes in the environment and society, and fast developments in geospatial technology have increased the need for geospatial skills in many fields, e.g. environmental management, urban planning. This in turn will increase the demand for geospatial education. We will present some of the lessons learned from our Estonian and international MSc programme for Geoinformatics.
+
+Evelyn Uuemaa is senior researcher in geoinformatics and head of the Department of Geography at University of Tartu. She is developing Landscape Geoinformatics working group as a necessity to improve and strengthen environmental geoinformatics capabilities at the University of Tartu and for Estonia in general. Her research interests evolve around the interactions of land use/land cover and water quality. She is a geospatial and open data enthusiast, foodie and coffee junkie.</description>
         <logo></logo>
         <persons>
           <person id="32">Evelyn Uuemaa</person>
@@ -821,7 +1137,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>Road traffic collisions happen every day in densely built urban areas. One of the main tasks for traffic police is to gather all the needed evidence from collision scene and ensure that thorough investigation is being conducted afterward. The quality of the investigation is directly dependent of how realistically the collision scene is being reconstructed and how much time is being spent on data and evidence gathering on the scene. This presentation is focusing to compare traditional police data and evidence gathering practices with the new ones like drone RGB and IR camera as well as terrestrial scanner during road traffic collisions.
+
+Andres Mumma is a former tactical level incident commander in fire/rescue services working there for the past 24 years and he left fire/rescue industry in autumn 2018 because he belives that GIS “revolution” inside public safety industry can be achived mainly through research and education. Starting from September 2018 he is the head of center of excellence at Estonian Academy of Security Sciences and focusing in the research, education, training and application of drones and remote sensing inside the public safety industry.</description>
         <logo></logo>
         <persons>
           <person id="33">Andres Mumma</person>
@@ -829,32 +1147,9 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <links/>
         <attachments/>
       </event>
-      <event guid="e7830481-56e4-53f0-a87b-97dd182cb33e" id="33">
+      <event guid="986cf666-34c6-5faa-b5c8-8e9647373e91" id="33">
         <date>2020-03-06T16:00:00+02:00</date>
         <start>16:00</start>
-        <duration>00:30</duration>
-        <room>GAMMA</room>
-        <slug>tbd</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>TBD</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description></description>
-        <logo></logo>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="986cf666-34c6-5faa-b5c8-8e9647373e91" id="34">
-        <date>2020-03-06T16:30:00+02:00</date>
-        <start>16:30</start>
         <duration>00:30</duration>
         <room>GAMMA</room>
         <slug>gis-and-machine-learning-in-logistics</slug>
@@ -869,282 +1164,12 @@ Vahur Puik studied cultural geography in the University of Tartu, has worked as 
         <type>Talk</type>
         <language>en</language>
         <abstract></abstract>
-        <description></description>
+        <description>It is estimated that heavy-duty vehicles (trucks) represent 30% of all road transportation, and 5% of all EU CO2 emissions. Therefore visibility, analysing, optimisations and reductions in commercial transportation footprint are not only useful to improve travel times and costs for businesses, but it also contributes to significant reduction of global greenhouse gases. This sector sees this as important target for the green future. My talk is technology-oriented view to the challenges of the first steps towards it: how small company started in Estonia now does collection and consolidation of billions of real-time locations of trucks, combines it with real-time traffic and GIS datasets and builds machine learning models to reveal hidden patterns and reduction opportunities.
+
+Jaak has been active in geoinformatics field for over 20 years, as technical lead in companies like Regio, Reach-U, Nutiteq, CARTO and now in Sixfold. He has been also active in Estonian geoinformatics society (EstGIS) and OpenStreetMap Foundation.</description>
         <logo></logo>
         <persons>
           <person id="34">Jaak Laineste</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-    </room>
-    <room name="OSM">
-      <event guid="6caf2798-71c4-52d5-871a-f91ddccb2463" id="35">
-        <date>2020-03-06T10:30:00+02:00</date>
-        <start>10:30</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>cartography-using-open-source-tools-topo-openmap-lt</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>Cartography using open source tools - topo.openmap.lt</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>Important aspects of cartography, like generalisation, are usually mostly overlooked in today's on-line maps. Some of these problems are being solved using open source tools while creating a vector tile based on-line map topo.openmap.lt. Cartography helps to improve not only the visual, but also the technical result of vector tiles and therefore the maps themselves. Although some solutions are already implemented, a lot of other issues are missing even ideas for high level algorithm to be used to solve them.
-
-Head of Productivity engineering department at iTree Group with more than 20 years of experience in IT. Active member of OpenStreetMap since 2008. Member of Lithuanian Cartographic Society.</description>
-        <logo></logo>
-        <persons>
-          <person id="35">Tomas Straupis</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="09aa6613-1215-5e45-9676-b6d25812d7d8" id="36">
-        <date>2020-03-06T11:00:00+02:00</date>
-        <start>11:00</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>3d-in-osm-current-state-and-future</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>3D in OSM. Current State and future</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>Should a free map be flat? How 3D-OSM came into beeing? Are "Simple Building" so simple? How it can be used? Are there any alternatives? When 4D and 5D will arrive?
-
-Joined OSM eleven years ago and dug right in: made a conversion for a popular navigation tool and many useful validators. After presenting at many local and international conferences, took a break — to return with an avid interest for 3D.</description>
-        <logo></logo>
-        <persons>
-          <person id="36">Kirill Bondarenko</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="b964f348-9220-552d-b85a-128d901a9074" id="37">
-        <date>2020-03-06T11:30:00+02:00</date>
-        <start>11:30</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>360deg-photos-from-a-car-dr-gps</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>360° photos from a car + DR-GPS</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>Among the most active mappers in Estonia, Sviatoslav Mikhailov has coordinated the building import over the country, has made many validators, and connects the communities. Recently he's been interested in DR-GPS and Mapillary imagery.</description>
-        <logo></logo>
-        <persons>
-          <person id="37">Sviatoslav Mikhailov</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="04720159-a329-56bd-b5f0-026d339f96f8" id="38">
-        <date>2020-03-06T12:00:00+02:00</date>
-        <start>12:00</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>challenges-of-using-osrm-for-timbertruck-routing</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>Challenges of using OSRM for timbertruck routing</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>Mappost and Latvia`s State Forests have been working together on an innovative logistics solver engine project where OSRM technology is used for routing purposes. Timbertruck movement on roads is a much more complex issue than it is for other vehicles due to very practical challenges and specific business needs.
-
-Rolands Rihters is a geospatial solutions development lead at the JSC Latvia`s State Forests with significant experience in developing complex GIS. Together with the team he is developing various geospatial solutions in many organizations in Latvia.
-
-Aleksandrs Saveļjevs is an experienced software developer with a particular interest in algorithms and operations research, formerly a world TOP30 participant in numerous programming competitions. Since 2017 he is mainly working on designing algorithms and developing solutions for solving TSP, VRP problems and their variations, including using open source technologies.
-
-Mārtiņš Vimba is a geographer, CEO of “Mappost” Ltd. with more than 10 years of experience in implementing route planning and optimization solutions to support various business processes and reduce costs.</description>
-        <logo></logo>
-        <persons>
-          <person id="38">Aleksandrs Saveļjevs</person>
-          <person id="39">Mārtiņš Vimba</person>
-          <person id="40">Rolands Rihters</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="ed53ec88-882e-5551-b04d-0284dfdb6d4e" id="39">
-        <date>2020-03-06T13:30:00+02:00</date>
-        <start>13:30</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>offline-address-search-on-the-osm-data</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>Offline address search on the OSM data</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>During our work on Guru Maps we have developed many interesting solutions. One of them is address search using OSM data. On a mobile device this is especially difficult because of limited resources.
-
-Founder and developer of Guru Maps mobile application for iOS and Android, and an active member of the Belarussian OSM community</description>
-        <logo></logo>
-        <persons>
-          <person id="41">Evgen Bodunov</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="d14cde23-ed49-5f20-9d38-e04574bb383d" id="40">
-        <date>2020-03-06T14:00:00+02:00</date>
-        <start>14:00</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>using-ai-to-map-the-world-with-rapid-editor</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>Using AI to Map the World with RapiD editor</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>We'll discuss the deep neural network applications for mapping and introduce RapiD, an AI-assisted extension of iD OpenStreetMap editor publicly available at www.mapwith.ai.
-
-Danil Kirsanov holds PhD in Applied Math from Harvard and prior to Facebook worked on the scalable computing at Microsoft and MathWorks. His primary interests are in computer assisted mapping, signal/image processing, numerical modeling and distributed machine learning applications.</description>
-        <logo></logo>
-        <persons>
-          <person id="42">Danil Kirsanov</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="2bf91ebc-3a6b-5e3c-adc6-a28b135ef684" id="41">
-        <date>2020-03-06T14:30:00+02:00</date>
-        <start>14:30</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>lightning-talks</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>Lightning Talks</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>We invite everyone who used OSM and liked it, or failed, or was amazed with its options, to give a very short five-minute talk on anything related to OpenStreetMap. No advance registration is needed, it's open mic!</description>
-        <logo></logo>
-        <persons/>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="743d3e44-0ffc-5687-9b6f-319f4cb6df70" id="42">
-        <date>2020-03-06T15:30:00+02:00</date>
-        <start>15:30</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>what-questions-may-come-with-openstreetmap</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>What Questions May Come With OpenStreetMap</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>First you ask yourself "is this a good edit?" Then "how to systematically catch vandalism on the map?". And after that - "maybe OSM isn't just a map?"
-
-Geographer. Data RAVE Specialist.</description>
-        <logo></logo>
-        <persons>
-          <person id="43">Natallia Hancharyk</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="d7006d52-4f0c-5da6-b38a-da3d40e739c4" id="43">
-        <date>2020-03-06T16:00:00+02:00</date>
-        <start>16:00</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>odbl-in-twelve-examples</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>ODbL in twelve examples</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>Using OpenStreetMap sometimes feels like a dangerous affair because of its virus-like open license. Often there is little reason to worry: despite being complex, the license also allows quite a lot. Let's see what you can do without triggering a share-alike clause.
-
-Ilya has been deeply interested in OpenStreetMap since 2010. He tried everything: mapped a lot, proposed tagging schemas, edited a blog and a telegram channel, made two podcasts, organized mapping parties and conferences, wrote JOSM plugins, API tools, editors, geocoders, and various maps.</description>
-        <logo></logo>
-        <persons>
-          <person id="44">Ilya Zverev</person>
-        </persons>
-        <links/>
-        <attachments/>
-      </event>
-      <event guid="fc0bef90-fe27-59d4-861e-463255e5dd7a" id="44">
-        <date>2020-03-06T16:30:00+02:00</date>
-        <start>16:30</start>
-        <duration>00:30</duration>
-        <room>OSM</room>
-        <slug>winds-of-change-in-openstreetmap</slug>
-        <url></url>
-        <recording>
-          <license></license>
-          <optout>false</optout>
-        </recording>
-        <title>Winds of Change in OpenStreetMap</title>
-        <subtitle></subtitle>
-        <track></track>
-        <type>Talk</type>
-        <language>en</language>
-        <abstract></abstract>
-        <description>Allan Mustard offers his personal assessment of challenges facing OSM and how he thinks the OSM Foundation Board should deal with them.
-
-Allan Mustard is a retired U.S. Ambassador as well as a long time OpenStreetMap contributor. Since last December he is the chairperson of the OSM Foundation board of directors. He was sworn in as U.S. Ambassador to Turkmenistan on November 25, 2014 and retired from that position in June 2019 after almost 38 years of public service. Allan helped to greatly improve OSM in Turkmenistan during his years there. He previously served as Agricultural Minister-Counselor at the U.S. Embassy in New Delhi, India. A widely recognized authority on agricultural and food aid policy, he has broad experience in guiding economic reform assistance throughout Eastern Europe and the former Soviet Union.</description>
-        <logo></logo>
-        <persons>
-          <person id="1">Allan Mustard</person>
         </persons>
         <links/>
         <attachments/>

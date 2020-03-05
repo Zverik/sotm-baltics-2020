@@ -93,6 +93,7 @@ hotel or hostel and book directly: that helps them save on huge booking.com fees
 * Be prepared to find tons of cat-related souvenirs. Cat on a roof is a common symbol of the city.
 * There are many free wi-fi access points. When lost or in doubt, contact the organizers:
     Rihards (email pending) or Ilya by [telegram](https://t.me/ilyazver).
-* Afterparty! Starting from 19:00 at the Wellton Riverside SPA Hotel. Have your conference badge on.
+* Afterparty! Starting from 19:00 at the [Restaurant Klīversala]http://www.kliversala.lv/eng/contacts/().
+    Have your conference badge on.
 
 _To get to the [main page](/), click on the logo at the top._

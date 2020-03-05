@@ -11,14 +11,10 @@ talks.
 This SotM is a part of the [Baltic Geospatial Information Technology Conference](https://www.balticgitconf.eu/).
 We cannot thank them enough for letting us borrow a room for OSM-related talks.
 Which also means, if you get bored of these, you can attend any of the other
-tracks to listen to more specialized topics. Also it means we've got a serious
-conference and you have to register to attend:
+tracks to listen to more specialized topics.
 
-[Register here!](https://www.balticgitconf.eu/#register)
-{: .button}
-
-After doing all of the above, it's time to book a flight, choose a hotel
-and add some bookmarks to your mobile map. We've got a page just for that:
+We hope you've registered and booked your flight and hotel. Before you come,
+there is some useful information you'd want to know:
 
 [Travel, accomodation, the venue](riga.html)
 {: .button}
